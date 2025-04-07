@@ -1,0 +1,38 @@
+Ground truth: [(98, 40), (98, 64), (127, 64), (127, 40)] || Model output: To determine the bounding box around the tumor in the given FLAIR-mode brain scan, the following steps are taken:
+
+* **Step 1: Load and Preprocess the Image**
+Load the 128
+Ground truth: [(97, 31), (97, 64), (127, 64), (127, 31)] || Model output: [(30, 42), (30, 95), (75, 95), (75, 42)]
+Ground truth: [(96, 31), (96, 64), (127, 64), (127, 31)] || Model output: To develop an AI model that accurately segments gliomas from brain scans, the following key considerations are necessary:
+
+* **Preprocessing**
+
+	+ Remove non-tumor tissues from the scan by applying image processing
+Ground truth: [(95, 31), (95, 64), (127, 64), (127, 31)] || Model output: To solve this question, we can use the following approach:
+
+1. **Load and preprocess the image**: Load the given FLAIR-mode brain scan and preprocess it using histogram equalization or other contrast enhancement
+Ground truth: [(95, 31), (95, 66), (127, 66), (127, 31)] || Model output: To find the bounding box around the tumor in the FLAIR-mode brain scan, we need to use a technique that can isolate and encapsulate the tumor region while minimizing its overlap with normal brain structures.
+Ground truth: [(96, 30), (96, 65), (127, 65), (127, 30)] || Model output: **[((92, 56), (92, 102), (92, 102), (92, 102))]**
+Ground truth: [(96, 31), (96, 67), (127, 67), (127, 31)] || Model output: [(24, 32), (24, 121), (121, 121), (121, 32)]
+Ground truth: [(97, 31), (97, 66), (127, 66), (127, 31)] || Model output: [0, 0], [0, 99], [127, 99], [127, 0]
+Ground truth: [(98, 35), (98, 65), (127, 65), (127, 35)] || Model output: [30, 40, 40, 121]
+Ground truth: [(98, 35), (98, 65), (127, 65), (127, 35)] || Model output: [17, 31, 92, 117]
+Ground truth: [(93, 41), (93, 65), (127, 65), (127, 41)] || Model output: **Solution**
+
+To accurately identify the bounding box of the tumor in the FLAIR-mode brain scan, we will follow a step-by-step approach:
+
+### Step 1: Image Preprocessing
+
+* Convert
+Ground truth: [(98, 42), (98, 62), (127, 62), (127, 42)] || Model output: [15, 25, 102, 98]
+Ground truth: [(101, 43), (101, 63), (127, 63), (127, 43)] || Model output: **[Tumor Bounding Box]**
+
+**(36, 40), (37, 117), (112, 115), (112, 43)**
+Ground truth: [(95, 43), (95, 65), (127, 65), (127, 43)] || Model output: **Step 1: Preprocess the Image**
+
+To begin, we'll import the necessary libraries and load the given grayscale brain scan into the analysis environment. The provided information doesn't include an image for
+Ground truth: [(97, 43), (97, 64), (127, 64), (127, 43)] || Model output: [29, 25], [29, 91], [74, 91], [74, 25]
+Ground truth: [(98, 44), (98, 64), (127, 64), (127, 44)] || Model output: **[answer]** [insert bounding box coordinate list here]
+Ground truth: [(95, 45), (95, 64), (127, 64), (127, 45)] || Model output: To determine the bounding box around the tumor region in the provided FLAIR-mode brain scan, the following steps can be taken:
+
+1. **Image Preprocessing**: Convert the 128x128 grayscale image

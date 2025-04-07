@@ -1,0 +1,4 @@
+Ground truth centre: [(0, 118)] || Ground truth bbox: [(0, 117), (0, 118), (1, 118), (1, 117)] || Model output: (57, 69)
+Ground truth centre: [(0, 118)] || Ground truth bbox: [(0, 117), (0, 118), (1, 118), (1, 117)] || Model output: (62, 62)
+Ground truth centre: [(0, 114)] || Ground truth bbox: [(0, 111), (0, 118), (1, 118), (1, 111)] || Model output: (66, 77)
+Ground truth centre: [(0, 114)] || Ground truth bbox: [(0, 112), (0, 117), (0, 117), (0, 112)] || Model output: (66, 68)

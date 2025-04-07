@@ -1,0 +1,51 @@
+Ground truth: [(68, 62), (68, 94), (98, 94), (98, 62)] || Model output: [(41, 70), (41, 107), (54, 107), (54, 70)]
+Ground truth: [(67, 60), (67, 94), (96, 94), (96, 60)] || Model output: [(45, 40), (45, 116), (110, 116), (110, 40)]
+Ground truth: [(68, 59), (68, 94), (97, 94), (97, 59)] || Model output: [47, 85], [47, 125], [71, 125], [71, 85]
+Ground truth: [(67, 59), (67, 94), (97, 94), (97, 59)] || Model output: [(27, 27), (27, 120), (123, 120), (123, 27)]
+Ground truth: [(67, 59), (67, 95), (98, 95), (98, 59)] || Model output: To accurately segment the glioma on an FLAIR-mode brain scan, we follow a three-step process:
+
+### Step 1: Filter and Thresholding
+
+1.  **Image Preprocessing:** First
+Ground truth: [(67, 58), (67, 96), (98, 96), (98, 58)] || Model output: To extract the bounding box around the tumor, we first need to identify the region of interest (ROI) in the grayscale brain scan. The ROI is defined as the brightest, high-intensity abnormality
+Ground truth: [(67, 58), (67, 95), (98, 95), (98, 58)] || Model output: The region-based neural network (RNN) is a type of deep learning model that has been highly successful in glioma segmentation tasks, particularly when using FLAIR-mode brain scans.
+
+The process of gli
+Ground truth: [(67, 59), (67, 96), (98, 96), (98, 59)] || Model output: **Solution Approach**
+
+To solve this problem, we will employ a step-by-step approach utilizing various image processing techniques.
+
+**Step 1: Image Import and Preprocessing**
+
+Import the 128x128
+Ground truth: [(67, 59), (67, 95), (99, 95), (99, 59)] || Model output: [67, 75], [67, 119], [105, 119], [105, 75]
+Ground truth: [(67, 61), (67, 95), (99, 95), (99, 61)] || Model output: [(57, 56), (57, 105), (98, 105), (98, 56)]
+Ground truth: [(67, 62), (67, 96), (99, 96), (99, 62)] || Model output: **Bounding Box Coordinates for Tumor Segmentation**
+
+To obtain the bounding box coordinates of the tumor region, the following steps are performed:
+
+1. **Import Grayscale Brain Scan Image**
+2. **
+Ground truth: [(69, 63), (69, 97), (99, 97), (99, 63)] || Model output: [(27, 39), (27, 115), (79, 114), (80, 39)]
+Ground truth: [(70, 65), (70, 97), (99, 97), (99, 65)] || Model output: The following bounding box coordinates enclose the entire tumor:
+
+(8, 28), (8, 111), (86, 111), (86, 28)
+Ground truth: [(70, 67), (70, 96), (100, 96), (100, 67)] || Model output: [(65, 50), (65, 120), (100, 120), (100, 50)]
+Ground truth: [(70, 68), (70, 96), (100, 96), (100, 68)] || Model output: **Step 1: Understand the problem.**
+
+The problem asks to identify the tumor in an FLAIR-mode brain scan and output the bounding box coordinates.
+
+**Step 2: Load the data.
+Ground truth: [(71, 70), (71, 95), (100, 95), (100, 70)] || Model output: **Step 1: Load and Preprocess the Image**
+
+Load the provided brain scan image and convert it to a numerical array. Since the image is grayscale, it's likely represented as a 2
+Ground truth: [(71, 70), (71, 96), (99, 96), (99, 70)] || Model output: The image resolution is 128x128, resulting in pixel coordinates ranging from 0 to 127.
+
+**Step-by-Step Process:**
+
+* Identify the brightest, high-intensity abnormality in
+Ground truth: [(73, 73), (73, 94), (99, 94), (99, 73)] || Model output: [(91, 77), (91, 94), (102, 94), (102, 77)]
+Ground truth: [(77, 75), (77, 94), (98, 94), (98, 75)] || Model output: [46, 56], [47, 113], [78, 113], [78, 56]
+Ground truth: [(80, 75), (80, 93), (97, 93), (97, 75)] || Model output: [65, 66, 70, 94]
+Ground truth: [(81, 75), (81, 92), (96, 92), (96, 75)] || Model output: [(25, 26), (25, 118), (99, 117), (99, 27)]
+Ground truth: [(85, 76), (85, 90), (95, 90), (95, 76)] || Model output: [(17, 51), (17, 71), (37, 71), (37, 51)]

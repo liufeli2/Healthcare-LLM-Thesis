@@ -1,0 +1,13 @@
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: The following bounding box was obtained using the AI tool, which accurately represents the tumor's location and size.
+
+[24, 55], [25, 93], [94, 94], [
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: [26, 25, 71, 91]
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: * The bounding box surrounding the tumor, with (row, column) coordinates spanning from:
+
+  [(30, 40), (30, 105), (97, 105), (97,
+Ground truth: [(0, 117), (0, 118), (1, 118), (1, 117)] || Model output: [(38, 40), (38, 120), (110, 120), (110, 40)]
+Ground truth: [(0, 117), (0, 118), (1, 118), (1, 117)] || Model output: [(64, 63), (64, 124), (98, 123), (97, 62)]
+Ground truth: [(0, 111), (0, 118), (1, 118), (1, 111)] || Model output: (15, 27), (15, 78), (74, 78), (74, 27)
+Ground truth: [(0, 112), (0, 117), (0, 117), (0, 112)] || Model output: [(45, 50), (45, 93), (102, 93), (102, 50)]
+Ground truth: [(0, 114), (0, 114), (0, 114), (0, 114)] || Model output: [(29, 63), (29, 99), (76, 99), (76, 63)]
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: [42, 42, 83, 83]

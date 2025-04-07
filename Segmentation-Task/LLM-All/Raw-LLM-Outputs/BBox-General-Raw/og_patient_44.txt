@@ -1,0 +1,41 @@
+Ground truth: [(50, 22), (50, 48), (72, 48), (72, 22)] || Model output: **Vertex:** (42, 83)
+**End Vertex:** (25, 98)
+Ground truth: [(48, 21), (48, 50), (73, 50), (73, 21)] || Model output: The image you provided shows a FLAIR (Fluid-Attenuated Inversion Recovery) brain MRI scan with a large high-intensity abnormality in the right frontal lobe, which is suggestive of
+Ground truth: [(48, 20), (48, 55), (75, 55), (75, 20)] || Model output: To generate a bounding box around the tumor in the FLAIR-mode brain scan, we will perform the following steps:
+
+1. **Load the Image**
+   Load the grayscale brain scan image, which is
+Ground truth: [(46, 20), (46, 55), (76, 55), (76, 20)] || Model output: **Vertex Bounding Box Calculation**
+
+To calculate the vertex bounding box around the tumor in the given 128x128 FLAIR-mode brain scan, follow these steps:
+
+1. **Thresholding**: Apply
+Ground truth: [(46, 19), (46, 53), (76, 53), (76, 19)] || Model output: The bounding box around the tumor can be derived using the following steps:
+
+* **Step 1: Find the Tumor Mask**
+	+ Convert the 8-bit grayscale image to a binary mask by
+Ground truth: [(46, 18), (46, 53), (76, 53), (76, 18)] || Model output: To obtain the bounding box around the tumor on an FLAIR-mode brain scan, the following steps are performed:
+
+* **Step 1: Thresholding**
+Apply a threshold to separate the tumor region from
+Ground truth: [(45, 18), (45, 54), (78, 54), (78, 18)] || Model output: To derive the solution, we need to perform the following steps:
+
+1. **Read the Image**: Load the 128x128 grayscale brain scan into a digital format that can be processed by the AI
+Ground truth: [(45, 17), (45, 53), (79, 53), (79, 17)] || Model output: [29, 9], [28, 124], [118, 124], [117, 8]
+Ground truth: [(44, 17), (44, 55), (79, 55), (79, 17)] || Model output: **Tumor Detection and Bounding Box**
+
+To detect the tumor and calculate its bounding box, we will perform the following steps:
+
+**Step 1: Load the Brain Scan**
+
+Load the 128
+Ground truth: [(45, 17), (45, 57), (79, 57), (79, 17)] || Model output: The bounding box can be determined by examining the brain scan image and identifying the location and dimensions of the tumor. This involves visually locating the highest-intensity regions corresponding to the tumor, determining its spatial extent
+Ground truth: [(44, 17), (44, 58), (79, 58), (79, 17)] || Model output: [42, 42, 85, 85]
+Ground truth: [(42, 17), (42, 60), (80, 60), (80, 17)] || Model output: [(20, 10), (20, 112), (114, 112), (114, 10)]
+Ground truth: [(40, 17), (40, 60), (80, 60), (80, 17)] || Model output: **Solution Steps**
+
+* **Step 1: Load and Process the Scan Image**
+Load the grayscale brain scan into a suitable data structure. Given a 128x128 matrix representation, load the data
+Ground truth: [(40, 17), (40, 61), (80, 61), (80, 17)] || Model output: **[Row Min, Column Min, Row Max, Column Max]**
+
+*(38, 54, 91, 122)*

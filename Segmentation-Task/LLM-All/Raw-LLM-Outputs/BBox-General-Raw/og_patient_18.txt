@@ -1,0 +1,32 @@
+Ground truth: [(86, 71), (86, 104), (127, 104), (127, 71)] || Model output: [(57, 57), (57, 109), (104, 109), (104, 57)]
+Ground truth: [(84, 69), (84, 103), (127, 103), (127, 69)] || Model output: **Solution Steps**
+
+### Step 1: Data Collection and Initialization
+Input brain scan: A 128x128 grayscale brain scan.
+
+### Step 2: Intensity Normalization
+Normalize intensities
+Ground truth: [(81, 68), (81, 103), (127, 103), (127, 68)] || Model output: [(38, 26), (38, 106), (102, 106), (102, 26)]
+Ground truth: [(81, 67), (81, 103), (127, 103), (127, 67)] || Model output: * **Step 1: Load the Image**
+
+Load the provided grayscale brain scan into an appropriate image processing library. The image will be represented as a 2D NumPy array where each pixel is
+Ground truth: [(81, 68), (81, 103), (127, 103), (127, 68)] || Model output: [(14, 49), (14, 90), (71, 90), (71, 49)]
+Ground truth: [(81, 70), (81, 103), (127, 103), (127, 70)] || Model output: [(40, 48), (40, 91), (100, 92), (99, 48)]
+Ground truth: [(81, 70), (81, 103), (127, 103), (127, 70)] || Model output: **Bounding Box Prediction**
+
+* **Tumor Region Identification:** 45, 70
+* **Tight Enclosure:** The bounding box tightly encloses the entire tumor without extending into non-tumor
+Ground truth: [(81, 69), (81, 104), (127, 104), (127, 69)] || Model output: The bounding box that encloses the entire tumor can be determined by:
+
+*   **Identifying the Tumor Region:**
+    The tumor region is the brightest, high-intensity abnormality distinct from
+Ground truth: [(79, 69), (79, 103), (127, 103), (127, 69)] || Model output: To generate the bounding box around the tumor, we will use the following approach:
+
+1. **Import Libraries and Load Brain Scan**
+
+    Load the provided 128x128 grayscale brain scan into Python,
+Ground truth: [(81, 70), (81, 103), (127, 103), (127, 70)] || Model output: To derive the solution, we utilize the following key concepts:
+
+**Image Preprocessing**
+
+* Apply a contrast-limited adaptive histogram equalization (CLAHE) algorithm to the original FLAIR-mode brain scan

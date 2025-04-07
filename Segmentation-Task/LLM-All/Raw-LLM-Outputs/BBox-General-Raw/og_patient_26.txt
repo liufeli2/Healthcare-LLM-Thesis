@@ -1,0 +1,106 @@
+Ground truth: [(10, 13), (10, 53), (80, 53), (80, 13)] || Model output: **Tumor Segmentation Output**
+
+**Tumor Region Boundaries:**
+(26, 47), (25, 102), (89, 102), (89, 47)
+Ground truth: [(10, 7), (10, 53), (84, 53), (84, 7)] || Model output: * The tumor region is the brightest, high-intensity abnormality distinct from normal brain structures.
+* The bounding box tightly encloses the entire tumor without extending into non-tumor regions.
+
+**Answer**:
+Ground truth: [(10, 4), (10, 49), (88, 49), (88, 4)] || Model output: From the FLAIR-mode brain MRI image provided, it can be observed that there is a tumor present, specifically on the left hemisphere, which has a distinct high-intensity signal compared to normal brain tissues
+Ground truth: [(10, 10), (10, 54), (80, 54), (80, 10)] || Model output: * The patient's symptoms and examination findings include headaches, dizziness, and difficulty with balance.
+* The CT scan reveals a large, irregularly shaped mass in the posterior fossa, which is compress
+Ground truth: [(10, 7), (10, 54), (79, 54), (79, 7)] || Model output: [(10, 28), (11, 113), (108, 113), (109, 29)]
+Ground truth: [(11, 7), (11, 57), (79, 57), (79, 7)] || Model output: [(26, 57), (26, 104), (71, 104), (71, 57)]
+Ground truth: [(11, 7), (11, 56), (80, 56), (80, 7)] || Model output: [(46, 57), (46, 87), (83, 87), (83, 57)]
+Ground truth: [(10, 6), (10, 57), (80, 57), (80, 6)] || Model output: [36, 93], [37, 123], [94, 123], [93, 125]
+Ground truth: [(12, 6), (12, 57), (90, 57), (90, 6)] || Model output: To find the solution to this question, we can follow these steps:
+
+1. **Load the Brain Scan Image**: Load the 128x128 grayscale brain scan image. Since we are given a grayscale
+Ground truth: [(12, 6), (12, 59), (84, 59), (84, 6)] || Model output: To find the solution to this question, we can follow these steps:
+
+1. **Import necessary libraries**:
+
+    * Import necessary libraries for image processing and manipulation.
+2. **Read the image**
+Ground truth: [(12, 6), (12, 59), (85, 59), (85, 6)] || Model output: The provided image shows the top part of the head, from above. From this image we can see a tumor in the left frontal lobe. We can segment the tumor using thresholding, but because
+Ground truth: [(9, 7), (9, 52), (91, 52), (91, 7)] || Model output: [(0, 10), (0, 90), (60, 90), (60, 10)]
+Ground truth: [(12, 8), (12, 58), (82, 58), (82, 8)] || Model output: **Bounding Box for Tumor Segmentation**
+
+**Step 1: Load FLAIR Brain Scan Image**
+ Load the FLAIR-mode brain scan into a Python environment for further analysis. The image is represented
+Ground truth: [(10, 8), (10, 61), (82, 61), (82, 8)] || Model output: To determine the bounding box around the tumor in the provided FLAIR-mode brain scan, we can follow a step-by-step approach:
+
+1. **Identify the Tumor Region**: The tumor is described
+Ground truth: [(16, 9), (16, 96), (90, 96), (90, 9)] || Model output: **Bounding Box Calculation:**
+
+To determine the bounding box around the tumor, we will follow these steps:
+
+**Step 1: Identify the Tumor Region**
+
+* The tumor region is the brightest
+Ground truth: [(17, 9), (17, 58), (85, 58), (85, 9)] || Model output: **Tumor Bounding Box:** [((0, 41), (0, 98), (95, 98), (95, 41))**Answer:** [(0, 41
+Ground truth: [(14, 7), (14, 58), (126, 58), (126, 7)] || Model output: To find the solution to this question, we will perform the following steps:
+
+1. **Import the necessary library**: 
+    We will import the OpenCV library (cv2) which has functions to
+Ground truth: [(10, 10), (10, 58), (82, 58), (82, 10)] || Model output: To extract the bounding box around the tumor in the given brain scan, we can follow these steps:
+
+1. **Load and preprocess the image**: Load the grayscale brain scan into your preferred programming environment.
+Ground truth: [(12, 9), (12, 58), (83, 58), (83, 9)] || Model output: To generate the bounding box around the tumor in the FLAIR-mode brain scan, we will follow these steps:
+
+1. **Image Pre-processing**: Convert the given 128x128 grayscale brain scan image
+Ground truth: [(14, 13), (14, 58), (83, 58), (83, 13)] || Model output: **Step 1: Load the Brain Scan**
+
+```python
+from PIL import Image
+
+brain_scan = Image.open('brain_scan.png').convert('L')  # convert to grayscale
+brain_scan
+Ground truth: [(13, 15), (13, 57), (84, 57), (84, 15)] || Model output: To obtain the bounding box around the tumor region on the given brain scan, we can follow these steps:
+
+1. **Read the Image**: Read the brain scan provided, which is a 128x
+Ground truth: [(16, 14), (16, 58), (77, 58), (77, 14)] || Model output: From the description, we can determine the bounding box for the glioma tumor in the given brain scan. Here are the steps:
+
+1. **Identify the Tumor Region**: In an FLAIR
+Ground truth: [(17, 16), (17, 55), (75, 55), (75, 16)] || Model output: [(14, 28), (14, 108), (88, 108), (88, 28)]
+Ground truth: [(13, 13), (13, 55), (76, 55), (76, 13)] || Model output: To solve this problem, we can follow these steps:
+
+1. **Load the Brain Scan Image**: Load the 128x128 grayscale brain scan image.
+
+2. **Apply Thresholding**: Convert the
+Ground truth: [(14, 15), (14, 56), (76, 56), (76, 15)] || Model output: To create a bounding box around the tumor in the FLAIR-mode brain scan, we need to use image processing techniques. Since you are an expert in glioma segmentation, you likely have the expertise to
+Ground truth: [(16, 17), (16, 55), (77, 55), (77, 17)] || Model output: [25, 46], [25, 110], [74, 110], [74, 46]
+Ground truth: [(15, 18), (15, 54), (79, 54), (79, 18)] || Model output: [(43, 45), (43, 115), (73, 115), (73, 45)]
+Ground truth: [(25, 23), (25, 53), (77, 53), (77, 23)] || Model output: The provided brain scan depicts a FLAIR sequence image with a bright signal in the white matter indicating a glioma. 
+
+To accurately capture the tumor region, the bounding box must be resized to encompass the
+Ground truth: [(24, 21), (24, 54), (76, 54), (76, 21)] || Model output: [(61, 43), (61, 113), (92, 112), (92, 44)]
+Ground truth: [(28, 19), (28, 53), (76, 53), (76, 19)] || Model output: [(5, 35), (5, 103), (103, 103), (103, 35)]
+Ground truth: [(51, 28), (51, 53), (73, 53), (73, 28)] || Model output: **Solution Steps**
+
+### Step 1: Tumor Region Selection
+
+Identify the tumor region, the brightest high-intensity abnormality, and mask out all other regions in the brain.
+
+**T
+Ground truth: [(50, 39), (50, 55), (60, 55), (60, 39)] || Model output: The bounding box around the tumor region can be determined using image processing techniques. A FLAIR-mode brain scan is a type of MRI sequence that highlights areas of high signal intensity, such as tumors.
+
+**
+Ground truth: [(51, 39), (51, 45), (60, 45), (60, 39)] || Model output: [(23, 35), (23, 102), (84, 102), (84, 35)]
+Ground truth: [(55, 40), (55, 45), (57, 45), (57, 40)] || Model output: [(20, 36), (20, 102), (103, 102), (103, 36)]
+Ground truth: [(61, 49), (61, 49), (61, 49), (61, 49)] || Model output: * The bounding box for the glioma tumor in the provided brain scan can be determined using the following steps:
+
+**Step 1: Identifying the Brightest Region**
+The region of interest (ROI
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: [47, 59, 70, 103]
+Ground truth: [(49, 37), (49, 37), (49, 37), (49, 37)] || Model output: [(38, 67), (38, 107), (74, 107), (74, 67)]
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: [38, 44], [39, 44], [38, 75], [39, 74]
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: To find the bounding box around the tumor in the given FLAIR-mode brain scan, the following steps are taken:
+
+1. **Image Preprocessing:**
+
+*   No preprocessing is required as the image
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: [(40, 50), (40, 120), (75, 120), (75, 50)]
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: To create a bounding box around the tumor region in the given FLAIR-mode brain scan, follow these steps:
+
+1. **Identify the Tumor Region**: The tumor is represented as the brightest,

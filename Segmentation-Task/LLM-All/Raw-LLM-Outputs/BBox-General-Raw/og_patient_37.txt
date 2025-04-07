@@ -1,0 +1,10 @@
+Ground truth: [(20, 52), (20, 90), (70, 90), (70, 52)] || Model output: [64, 4], [63, 63], [95, 98], [95, 1]
+Ground truth: [(20, 52), (20, 90), (70, 90), (70, 52)] || Model output: To determine the bounding box around the tumor in the brain scan, the following steps are taken:
+
+* **Step 1: Apply Otsu's Thresholding**
+	+ The image is converted into
+Ground truth: [(22, 52), (22, 89), (70, 89), (70, 52)] || Model output: To solve this question, we need to apply glioma segmentation on the FLAIR-mode brain scan. The process involves several steps:
+
+**Step 1: Importing the Image**
+
+* Import the grayscale
