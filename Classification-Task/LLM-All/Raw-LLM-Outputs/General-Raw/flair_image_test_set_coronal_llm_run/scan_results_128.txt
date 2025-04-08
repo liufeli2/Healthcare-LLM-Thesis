@@ -1,0 +1,44 @@
+Scan #: 128/220
+Slice #41 => Choice: 1 Reasoning: Hyperintensity, mass effect, necrosis,
+Slice #42 => Choice: 1 Reasoning: Heterogeneous mass, necrosis, contrast enhancement, irregular margins
+Slice #43 => Choice: 1 Reasoning: irregularly shaped mass, heterogeneous enhancement, peritumoral ed
+Slice #44 => Choice: 0 Reasoning: Heterogeneous mass with irregular borders, minimal enhancement, and no
+Slice #45 => Choice: 0 Reasoning: Hypointense, irregularly shaped, heterogeneously enhancing mass
+Slice #46 => Choice: 0 Reasoning: Non-enhancing lesion with irregular margins, heterogeneous signal intensity, and
+Slice #47 => Choice: 0 Reasoning: Heterogeneous appearance, irregular borders, non-uniform signal intensity
+Slice #48 => Choice: 0 Reasoning: Non-homogeneous, irregular, low contrast, non-enhancing
+Slice #49 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis, and enhancement
+Slice #50 => Choice: 1 Reasoning: Heterogeneous mass, irregular border, necrosis, cystic
+Slice #51 => Choice: 1 Reasoning: High-grade glioma, irregular mass, necrosis, edema
+Slice #52 => Choice: 0 Reasoning: Non-homogeneous mass with irregular borders, heterogeneous enhancement
+Slice #53 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis
+Slice #54 => Choice: 0 Reasoning: Heterogeneous appearance, irregular margins, necrosis, edema
+Slice #55 => Choice: 0 Reasoning: Hyperintense signal, heterogeneous appearance, irregular margins, solid component
+Slice #56 => Choice: 0 Reasoning: Low-grade glioma, non-enhancing, homogeneous
+Slice #57 => Choice: 1 Reasoning: Heterogeneous mass, necrosis, contrast enhancement
+Slice #58 => Choice: 1 Reasoning: Inhomogeneous mass, heterogeneous enhancement, necrosis, irregular margins
+Slice #59 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis, edema
+Slice #60 => Choice: 0 Reasoning: Heterogeneous mass, irregular borders, T2 hyperintensity
+Slice #61 => Choice: 1 Reasoning: Heterogeneous mass, irregular margins, contrast enhancement
+Slice #62 => Choice: 1 Reasoning: Heterogeneous mass, necrosis, irregular borders, contrast enhancement
+Slice #63 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis, cysts
+Slice #64 => Choice: 1 Reasoning: Heterogeneous mass, irregular margins, moderate contrast enhancement, per
+Slice #65 => Choice: 1 Reasoning: Heterogeneous mass, necrosis, contrast enhancement, irregular
+Slice #66 => Choice: 1 Reasoning: Mass effect, heterogeneous enhancement, midline shift, irregular borders,
+Slice #67 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis, contrast enhancement
+Slice #68 => Choice: 1 Reasoning: Heterogeneous mass, irregular margins, necrosis, contrast enhancement
+Slice #69 => Choice: 1 Reasoning: High-grade glioma, heterogenous appearance, irregular borders, nec
+Slice #70 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis, surrounding ed
+Slice #71 => Choice: 0 Reasoning: Well-defined margins, smooth borders, homogeneous appearance, no necrosis
+Slice #72 => Choice: 1 Reasoning: mass effect, heterogeneous enhancement, irregular margins, perilesional ed
+Slice #73 => Choice: 1 Reasoning: Heterogeneous mass, necrosis, irregular margins, surrounding ed
+Slice #74 => Choice: 1 Reasoning: heterogeneous mass, irregular margins, necrosis, edema, per
+Slice #75 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis
+Slice #76 => ERROR: Unknown >>||  || Step 1: Analyze the image ||  || The image appears to be a brain scan with some
+Slice #77 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis, edema
+Slice #78 => Choice: 0 Reasoning: Non-homogeneous mass with irregular borders, moderate enhancement, and
+Slice #79 => Choice: 1 Reasoning: Mass-like lesion, heterogeneous enhancement, irregular borders, midline shift
+Guesses: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 3, 1, 0, 1]
+Tally: [12, 26, 0, 1]
+True Label: HGG || Prediction Label: HGG
+

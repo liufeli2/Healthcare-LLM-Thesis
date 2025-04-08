@@ -1,0 +1,88 @@
+Training (248, 4, 95, 128, 128) (248, 4)
+Validation (62, 4, 95, 128, 128) (62, 4)
+Testing (55, 4, 95, 128, 128) (55, 4)
+Using Device: cuda!
+
+**********************
+50 EPOCHS
+
+TRAINING Classification Metrics:
+Accuracy: 0.8266 F1 Score: 0.8841 Precision: 0.9371 Recall: 0.8367
+AUC: 0.9128
+Confusion Matrix:
+TP: 164, TN: 41, FP: 11, FN: 32
+
+VALIDATION Classification Metrics:
+Accuracy: 0.5968 F1 Score: 0.7191 Precision: 0.8000 Recall: 0.6531
+AUC: 0.6295
+Confusion Matrix:
+TP: 32, TN: 5, FP: 8, FN: 17
+
+TESTING Classification Metrics:
+Accuracy: 0.7091 F1 Score: 0.8140 Precision: 0.8333 Recall: 0.7955
+AUC: 0.7025
+Confusion Matrix:
+TP: 35, TN: 4, FP: 7, FN: 9
+
+**********************
+80 EPOCHS
+
+TRAINING Classification Metrics:
+Accuracy: 0.9879 F1 Score: 0.9923 Precision: 1.0000 Recall: 0.9847
+AUC: 0.9994
+Confusion Matrix:
+TP: 193, TN: 52, FP: 0, FN: 3
+
+VALIDATION Classification Metrics:
+Accuracy: 0.7742 F1 Score: 0.8627 Precision: 0.8302 Recall: 0.8980
+AUC: 0.6766
+Confusion Matrix:
+TP: 44, TN: 4, FP: 9, FN: 5
+
+TESTING Classification Metrics:
+Accuracy: 0.8182 F1 Score: 0.8864 Precision: 0.8864 Recall: 0.8864
+AUC: 0.7562
+Confusion Matrix:
+TP: 39, TN: 6, FP: 5, FN: 5
+
+**********************
+100 EPOCHS
+
+TRAINING Classification Metrics:
+Accuracy: 0.9435 F1 Score: 0.9634 Precision: 0.9892 Recall: 0.9388
+AUC: 0.9878
+Confusion Matrix:
+TP: 184, TN: 50, FP: 2, FN: 12
+
+VALIDATION Classification Metrics:
+Accuracy: 0.7581 F1 Score: 0.8515 Precision: 0.8269 Recall: 0.8776
+AUC: 0.6829
+Confusion Matrix:
+TP: 43, TN: 4, FP: 9, FN: 6
+
+TESTING Classification Metrics:
+Accuracy: 0.7636 F1 Score: 0.8506 Precision: 0.8605 Recall: 0.8409
+AUC: 0.6942
+Confusion Matrix:
+TP: 37, TN: 5, FP: 6, FN: 7
+
+**********************
+200 EPOCHS
+
+TRAINING Classification Metrics:
+Accuracy: 0.9677 F1 Score: 0.9792 Precision: 1.0000 Recall: 0.9592
+AUC: 0.9975
+Confusion Matrix:
+TP: 188, TN: 52, FP: 0, FN: 8
+
+VALIDATION Classification Metrics:
+Accuracy: 0.7581 F1 Score: 0.8485 Precision: 0.8400 Recall: 0.8571
+AUC: 0.7221
+Confusion Matrix:
+TP: 42, TN: 5, FP: 8, FN: 7
+
+TESTING Classification Metrics:
+Accuracy: 0.8000 F1 Score: 0.8706 Precision: 0.9024 Recall: 0.8409
+AUC: 0.8202
+Confusion Matrix:
+TP: 37, TN: 7, FP: 4, FN: 7

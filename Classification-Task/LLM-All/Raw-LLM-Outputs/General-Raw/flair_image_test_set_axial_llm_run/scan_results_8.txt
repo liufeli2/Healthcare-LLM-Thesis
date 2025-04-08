@@ -1,0 +1,54 @@
+Scan #: 8/220
+Slice #28 => Choice: 0 Reasoning: Heterogeneous mass with mixed signal intensity, surrounding edema,
+Slice #29 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, central necrosis, surrounding
+Slice #30 => Choice: 1 Reasoning: mass effect, heterogeneous enhancement, irregular margins, necrosis, ed
+Slice #31 => Choice: 0 Reasoning: Mass effect, heterogeneity, contrast enhancement, peritumoral
+Slice #32 => Choice: 1 Reasoning: Heterogeneous mass, irregular margins, necrosis, contrast enhancement
+Slice #33 => Choice: 1 Reasoning: Heterogeneous mass, irregular margins, cystic components, nec
+Slice #34 => Choice: 1 Reasoning: Tumor with necrosis, irregular margins, and mass effect.
+Slice #35 => Choice: 1 Reasoning: Heterogeneous mass with irregular borders, mixed signal intensity, and
+Slice #36 => Choice: 1 Reasoning: Heterogeneous mass, irregular margins, necrosis, and ed
+Slice #37 => Choice: 1 Reasoning: irregular border, heterogeneity, mass effect, edema, nec
+Slice #38 => Choice: 0 Reasoning: Mass effect, edema, heterogeneous enhancement, solid/cystic
+Slice #39 => Choice: 0 Reasoning: Heterogeneous mass with irregular margins, moderate contrast enhancement, and
+Slice #40 => Choice: 1 Reasoning: Mass effect, irregular borders, heterogeneous signal intensity.
+Slice #41 => Choice: 1 Reasoning: Mass effect, heterogeneous signal intensity, irregular borders, necrosis,
+Slice #42 => Choice: 1 Reasoning: Hypodense lesions, irregular borders, mass effect, periles
+Slice #43 => Choice: 1 Reasoning: Mass effect, edema, heterogeneous signal intensity, irregular border,
+Slice #44 => Choice: 1 Reasoning: Enhancing mass, heterogeneity, cystic change, perit
+Slice #45 => Choice: 1 Reasoning: Mass effect, peritumoral edema, heterogeneous enhancement,
+Slice #46 => Choice: 1 Reasoning: Mass effect, irregular border, heterogeneity, edema, nec
+Slice #47 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis, surrounding ed
+Slice #48 => Choice: 1 Reasoning: Heterogeneous mass with irregular margins, hyperintensity, and
+Slice #49 => Choice: 2 Reasoning: No significant mass effect, normal brain structure, no enhancement, no
+Slice #50 => Choice: 1 Reasoning: Heterogeneous mass, irregular margins, necrosis, edema
+Slice #51 => Choice: 1 Reasoning: mass effect, edema, heterogenous enhancement, perilesional
+Slice #52 => Choice: 1 Reasoning: Mass effect, irregular border, heterogeneous signal intensity, perilesional
+Slice #53 => Choice: 1 Reasoning: Mass effect, heterogeneity, necrosis, edema, irregular
+Slice #54 => Choice: 2 Reasoning: No mass effect, normal sulci, no midline shift.
+Slice #55 => Choice: 2 Reasoning: No mass effect, smooth margin, homogeneous appearance, no edema
+Slice #56 => Choice: 2 Reasoning: No mass effect, normal sulci, no edema, normal
+Slice #57 => Choice: 0 Reasoning: Mass effect, periventricular edema, cortical thickening
+Slice #58 => Choice: 0 Reasoning: Heterogeneous mass, irregular borders, surrounding edema, increased
+Slice #59 => Choice: 1 Reasoning: Mass effect, heterogeneous enhancement, perilesional edema.
+Slice #60 => Choice: 2 Reasoning: No mass, normal brain structure, no contrast enhancement, no ed
+Slice #61 => Choice: 1 Reasoning: Large mass, irregular borders, heterogeneous signal, necrosis, ed
+Slice #62 => Choice: 1 Reasoning: Mass effect, heterogenous appearance, necrosis, irregular borders,
+Slice #63 => Choice: 1 Reasoning: Large cystic lesion, irregular border, mass effect, periles
+Slice #64 => Choice: 1 Reasoning: mass effect, periventricular location, irregular margins, heter
+Slice #65 => Choice: 1 Reasoning: Mass effect, heterogeneity, contrast enhancement, edema, mid
+Slice #66 => Choice: 2 Reasoning: No mass effect, normal sulci, no contrast enhancement, smooth
+Slice #67 => Choice: 1 Reasoning: Mass effect, heterogeneous enhancement, irregular margins, perilesional ed
+Slice #68 => Choice: 2 Reasoning: No mass effect, smooth margins, homogenous enhancement, no nec
+Slice #69 => Choice: 0 Reasoning: Large cystic lesion, irregular border, mass effect, heterogeneous signal
+Slice #70 => Choice: 0 Reasoning: Heterogeneous mass, ill-defined borders, T2-hyper
+Slice #71 => Choice: 0 Reasoning: Cortical thickening, irregular sulci, mass effect, ed
+Slice #72 => Choice: 2 Reasoning: No mass effect, normal sulci, no contrast enhancement.
+Slice #73 => Choice: 0 Reasoning: Heterogeneous mass, ill-defined borders, minimal edema,
+Slice #74 => Choice: 2 Reasoning: No mass effect, no enhancement, no edema, normal sul
+Slice #75 => Choice: 1 Reasoning: irregular mass, heterogeneous signal, contrast enhancement, edema, mid
+Slice #76 => Choice: 2 Reasoning: No mass effect, normal sulci, no contrast enhancement, no
+Guesses: [0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 2, 2, 2, 0, 0, 1, 2, 1, 1, 1, 1, 1, 2, 1, 2, 0, 0, 0, 2, 0, 2, 1, 2]
+Tally: [10, 29, 10, 0]
+True Label: HGG || Prediction Label: HGG
+

@@ -1,0 +1,23 @@
+Ground truth: [(63, 28), (63, 45), (85, 45), (85, 28)] || Model output: **Step 1: Analyze the MRI Image**
+
+* The image displays a T2-weighted FLAIR sequence image (T2w-FLAIR), used to identify edematous or ischem
+Ground truth: [(63, 27), (63, 46), (87, 46), (87, 27)] || Model output: To solve this problem, we need to follow these steps:
+
+1. **Preprocessing**: We start by loading the given 128x128 grayscale brain scan image.
+2. **Filtering**: Apply
+Ground truth: [(63, 27), (63, 46), (88, 46), (88, 27)] || Model output: To accurately identify and segment the glioma region, we need to utilize techniques typically associated with advanced computer vision and medical imaging tasks. Given the complexity of the image, a step-by-step approach is required
+Ground truth: [(61, 27), (61, 46), (89, 46), (89, 27)] || Model output: [15, 23, 91, 120]
+Ground truth: [(61, 27), (61, 46), (89, 46), (89, 27)] || Model output: **[([(54, 63), (54, 119), (87, 119), (87, 63))]**
+Ground truth: [(60, 27), (60, 47), (90, 47), (90, 27)] || Model output: [(20, 18), (19, 43), (61, 43), (62, 18)]
+Ground truth: [(60, 26), (60, 47), (91, 47), (91, 26)] || Model output: [(12, 42), (13, 87), (94, 87), (94, 40)]
+Ground truth: [(62, 26), (62, 47), (90, 47), (90, 26)] || Model output: [(26, 63), (26, 114), (101, 114), (101, 63)]
+Ground truth: [(63, 27), (63, 47), (90, 47), (90, 27)] || Model output: [(50, 52), (50, 91), (90, 91), (90, 52)]
+Ground truth: [(63, 27), (63, 46), (90, 46), (90, 27)] || Model output: [(17, 59), (18, 99), (71, 99), (70, 57)]
+Ground truth: [(62, 27), (62, 47), (89, 47), (89, 27)] || Model output: [36, 44, 74, 79]
+Ground truth: [(63, 28), (63, 46), (88, 46), (88, 28)] || Model output: [29, 43, 57, 74]
+Ground truth: [(65, 28), (65, 46), (88, 46), (88, 28)] || Model output: [33, 69, 79, 107]
+Ground truth: [(67, 29), (67, 46), (88, 46), (88, 29)] || Model output: To identify the tumor region on the FLAIR-mode brain scan, we need to follow a series of steps to isolate and define its boundaries.
+
+**Step 1: Data Import and Normalization**
+
+-

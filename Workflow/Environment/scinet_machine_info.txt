@@ -1,0 +1,187 @@
+
+################################################
+LOGIN NODE ALL INFORMATION
+################################################
+
+
+uname -a # Provides kernel name, version, and other system information
+Linux nia-login02.scinet.local 3.10.0-1160.123.1.el7.x86_64 #1 SMP Fri Aug 9 06:19:31 EDT 2024 x86_64 x86_64 x86_64 GNU/Linux
+
+
+cat /etc/os-release   # Displays detailed OS information (works on most Linux distros)
+NAME="Red Hat Enterprise Linux Server"
+VERSION="7.9 (Maipo)"
+ID="rhel"
+ID_LIKE="fedora"
+VARIANT="Server"
+VARIANT_ID="server"
+VERSION_ID="7.9"
+PRETTY_NAME="Red Hat Enterprise Linux Server 7.9 (Maipo)"
+ANSI_COLOR="0;31"
+CPE_NAME="cpe:/o:redhat:enterprise_linux:7.9:GA:server"
+HOME_URL="https://www.redhat.com/"
+BUG_REPORT_URL="https://bugzilla.redhat.com/"
+REDHAT_BUGZILLA_PRODUCT="Red Hat Enterprise Linux 7"
+REDHAT_BUGZILLA_PRODUCT_VERSION=7.9
+REDHAT_SUPPORT_PRODUCT="Red Hat Enterprise Linux"
+REDHAT_SUPPORT_PRODUCT_VERSION="7.9"
+
+
+lscpu    # Shows detailed CPU info
+Architecture:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                40
+On-line CPU(s) list:   0-39
+Thread(s) per core:    2
+Core(s) per socket:    10
+Socket(s):             2
+NUMA node(s):          2
+Vendor ID:             GenuineIntel
+CPU family:            6
+Model:                 85
+Model name:            Intel(R) Xeon(R) Gold 5115 CPU @ 2.40GHz
+Stepping:              4
+CPU MHz:               2849.707
+CPU max MHz:           3200.0000
+CPU min MHz:           1000.0000
+BogoMIPS:              4800.00
+Virtualization:        VT-x
+L1d cache:             32K
+L1i cache:             32K
+L2 cache:              1024K
+L3 cache:              14080K
+NUMA node0 CPU(s):     0-9,20-29
+NUMA node1 CPU(s):     10-19,30-39
+Flags:                 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf eagerfpu pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch epb cat_l3 cdp_l3 invpcid_single intel_ppin ssbd mba rsb_ctxsw ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear spec_ctrl intel_stibp flush_l1d
+
+
+free -h  # Shows memory usage in a human-readable format
+              total        used        free      shared  buff/cache   available
+Mem:            93G         31G         33G        9.3G         28G         52G
+Swap:            0B          0B          0B
+
+
+df -h    # Shows disk usage in a human-readable format
+Filesystem      Size  Used Avail Use% Mounted on
+fs0              16P  7.4P  8.2P  48% /gpfs/fs0
+fs1             1.1P  686T  345T  67% /gpfs/fs1
+bb0             232T  185T   47T  80% /gpfs/bb0
+
+
+lspci | grep -i vga     # Shows the GPU model if present
+02:00.0 VGA compatible controller: Matrox Electronics Systems Ltd. MGA G200e [Pilot] ServerEngines (SEP1) (rev 42)
+
+
+nvidia-smi              # Shows details for NVIDIA GPUs, if the driver is installed
+bash: nvidia-smi: command not found
+
+
+
+
+
+
+################################################
+MIST NODE ALL INFORMATION
+################################################
+ssh -Y mist-login01
+cd $SCRATCH
+
+
+uname -a # Provides kernel name, version, and other system information
+Linux mist-login01.scinet.local 4.18.0-477.70.1.el8_8.ppc64le #1 SMP Fri Aug 16 10:43:38 EDT 2024 ppc64le ppc64le ppc64le GNU/Linux
+
+
+cat /etc/os-release   # Displays detailed OS information (works on most Linux distros)
+NAME="Red Hat Enterprise Linux"
+VERSION="8.8 (Ootpa)"
+ID="rhel"
+ID_LIKE="fedora"
+VERSION_ID="8.8"
+PLATFORM_ID="platform:el8"
+PRETTY_NAME="Red Hat Enterprise Linux 8.8 (Ootpa)"
+ANSI_COLOR="0;31"
+CPE_NAME="cpe:/o:redhat:enterprise_linux:8::baseos"
+HOME_URL="https://www.redhat.com/"
+DOCUMENTATION_URL="https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8"
+BUG_REPORT_URL="https://bugzilla.redhat.com/"
+REDHAT_BUGZILLA_PRODUCT="Red Hat Enterprise Linux 8"
+REDHAT_BUGZILLA_PRODUCT_VERSION=8.8
+REDHAT_SUPPORT_PRODUCT="Red Hat Enterprise Linux"
+REDHAT_SUPPORT_PRODUCT_VERSION="8.8"
+
+
+lscpu    # Shows detailed CPU info
+Architecture:        ppc64le
+Byte Order:          Little Endian
+CPU(s):              128
+On-line CPU(s) list: 0-127
+Thread(s) per core:  4
+Core(s) per socket:  16
+Socket(s):           2
+NUMA node(s):        6
+Model:               2.3 (pvr 004e 1203)
+Model name:          POWER9, altivec supported
+CPU max MHz:         3800.0000
+CPU min MHz:         2300.0000
+L1d cache:           32K
+L1i cache:           32K
+L2 cache:            512K
+L3 cache:            10240K
+NUMA node0 CPU(s):   0-63
+NUMA node8 CPU(s):   64-127
+NUMA node252 CPU(s): 
+NUMA node253 CPU(s): 
+NUMA node254 CPU(s): 
+NUMA node255 CPU(s): 
+
+
+free -h  # Shows memory usage in a human-readable format
+              total        used        free      shared  buff/cache   available
+Mem:          379Gi        27Gi       308Gi        10Gi        42Gi       338Gi
+Swap:            0B          0B          0B
+
+
+df -h    # Shows disk usage in a human-readable format
+Filesystem      Size  Used Avail Use% Mounted on
+fs0              16P  7.4P  8.2P  48% /gpfs/fs0
+fs1             1.1P  686T  345T  67% /gpfs/fs1
+bb0             232T  185T   47T  80% /gpfs/bb0
+
+
+lspci | grep -i vga     # Shows the GPU model if present
+0002:02:00.0 VGA compatible controller: ASPEED Technology, Inc. ASPEED Graphics Family (rev 41)
+
+
+nvidia-smi              # Shows details for NVIDIA GPUs, if the driver is installed     
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 515.105.01   Driver Version: 515.105.01   CUDA Version: 11.7     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                               |                      |               MIG M. |
+|===============================+======================+======================|
+|   0  Tesla V100-SXM2...  On   | 00000004:04:00.0 Off |                    0 |
+| N/A   27C    P0    37W / 300W |      2MiB / 32768MiB |      0%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+|   1  Tesla V100-SXM2...  On   | 00000004:05:00.0 Off |                    0 |
+| N/A   31C    P0    62W / 300W |      2MiB / 32768MiB |    100%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+|   2  Tesla V100-SXM2...  On   | 00000035:03:00.0 Off |                    0 |
+| N/A   30C    P0    66W / 300W |      2MiB / 32768MiB |    100%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+|   3  Tesla V100-SXM2...  On   | 00000035:04:00.0 Off |                    0 |
+| N/A   33C    P0    62W / 300W |      2MiB / 32768MiB |    100%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                                  |
+|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
+|        ID   ID                                                   Usage      |
+|=============================================================================|
+|  No running processes found                                                 |
++-----------------------------------------------------------------------------+

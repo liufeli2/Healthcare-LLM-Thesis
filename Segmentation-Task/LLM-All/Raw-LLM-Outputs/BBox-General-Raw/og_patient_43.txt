@@ -1,0 +1,53 @@
+Ground truth: [(7, 28), (7, 63), (40, 63), (40, 28)] || Model output: [20, 63], [20, 123], [83, 123], [83, 63]
+Ground truth: [(5, 26), (5, 67), (35, 67), (35, 26)] || Model output: [(44, 53), (44, 110), (96, 110), (96, 53)]
+Ground truth: [(4, 25), (4, 68), (38, 68), (38, 25)] || Model output: **Step 1: Load and Process the Image**
+
+To begin with, the grayscale brain scan of 128x128 pixels is loaded and processed. This involves applying a Gaussian filter to reduce noise,
+Ground truth: [(0, 26), (0, 70), (39, 70), (39, 26)] || Model output: To obtain the bounding box around the tumor in the FLAIR-mode brain scan, we can follow these steps:
+
+1. **Importing Libraries**: Before performing the segmentation, we import the required libraries,
+Ground truth: [(0, 26), (0, 71), (39, 71), (39, 26)] || Model output: [(60, 60), (60, 115), (96, 115), (96, 60)]
+Ground truth: [(0, 26), (0, 68), (42, 68), (42, 26)] || Model output: **Step 1: Understand the Problem**
+
+The task requires identifying a tumor in a grayscale brain scan and outputting its bounding box with four corner vertices.
+
+**Step 2: Analyze the Image
+Ground truth: [(0, 25), (0, 69), (42, 69), (42, 25)] || Model output: Here is the bounding box:
+
+(47, 52), (47, 96), (89, 96), (89, 52)
+Ground truth: [(0, 25), (0, 69), (44, 69), (44, 25)] || Model output: has segmented the tumor and determined the bounding box. The tumor region is clearly visible as the
+Ground truth: [(0, 25), (0, 66), (45, 66), (45, 25)] || Model output: [72, 72, 72, 95]
+Ground truth: [(0, 26), (0, 66), (46, 66), (46, 26)] || Model output: [(38, 32), (38, 92), (90, 92), (90, 32)]
+Ground truth: [(0, 26), (0, 64), (46, 64), (46, 26)] || Model output: [75, 22], [75, 115], [113, 116], [113, 22]
+Ground truth: [(0, 27), (0, 65), (47, 65), (47, 27)] || Model output: [13, 46, 86, 122]
+Ground truth: [(0, 25), (0, 64), (48, 64), (48, 25)] || Model output: [52, 0], [52, 123], [123, 123], [123, 0]
+Ground truth: [(0, 25), (0, 65), (48, 65), (48, 25)] || Model output: **Tumor Region Boundaries:**
+
+*   The top-left corner vertex is located at (45, 10).
+*   The top-right corner vertex is located at (93, 108).
+Ground truth: [(0, 21), (0, 66), (49, 66), (49, 21)] || Model output: [(41, 22), (41, 105), (95, 106), (93, 25)]
+Ground truth: [(0, 22), (0, 67), (50, 67), (50, 22)] || Model output: **Step 1: Identify the Brightest Tumor Region in the FLAIR Scan**
+
+To accurately segment the glioma and determine its bounding box, we need to locate the brightest and most distinct region
+Ground truth: [(0, 22), (0, 65), (50, 65), (50, 22)] || Model output: To solve this problem, we need to perform the following steps:
+
+1. **Load the Image**: Load the given 128x128 grayscale brain scan.
+2. **Pre-processing**: Apply a suitable
+Ground truth: [(0, 22), (0, 67), (43, 67), (43, 22)] || Model output: To segment a glioma from a brain FLAIR-mode scan, we will employ a multi-step process:
+
+*   **Thresholding**: Identify the brightest and most distinct part of the brain, representing the
+Ground truth: [(0, 20), (0, 64), (49, 64), (49, 20)] || Model output: **Step 1: Import Libraries**
+
+```python
+import cv2
+import numpy as np
+```
+
+**Step 2: Load Brain Scan**
+
+```python
+brain_scan = cv2.imread
+Ground truth: [(0, 19), (0, 65), (49, 65), (49, 19)] || Model output: [20, 10), (20, 55), (65, 55), (65, 10)]
+Ground truth: [(0, 19), (0, 63), (42, 63), (42, 19)] || Model output: To solve this problem, we need to follow these steps:
+
+1. **Pre-processing the image**: Convert the given FLAIR-mode brain scan into a numerical representation to facilitate computational analysis. The image will

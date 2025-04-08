@@ -1,0 +1,30 @@
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: [(24, 33), (24, 87), (76, 87), (76, 33)]
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: To accurately outline the tumor region using the provided instructions, we'll employ a two-step process involving both intensity thresholding and morphological operations. First, we'll apply an appropriate intensity threshold to isolate the
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: To determine the bounding box around the tumor in the FLAIR-mode brain scan, the following steps are required:
+
+*   **Step 1: Load and Process the Image**
+    *   Load the
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: To determine the bounding box around the tumor in the provided FLAIR-mode brain scan, we need to perform the following steps:
+
+1. **Import the Image**: First, import the given 128x
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: To find the solution to this question, we need to use the following concepts:
+
+*   **Image Processing:** FLAIR-mode brain scans
+*   **Tumor Segmentation:** High-intensity abnormal
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: [(30, 41), (30, 116), (104, 116), (104, 41)]
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: [64, 100, 105, 110]
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: [13, 9], [13, 123], [123, 123], [123, 9]
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: [64, 24, 91, 112]
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: **Tumor Segmentation and Bounding Box**
+
+**Step 1: Pre-processing**
+
+* Load the 128x128 FLAIR-mode brain scan
+* Apply a threshold to extract tumor region by
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: [1, 16, 127, 126]
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: [(61, 23), (61, 115), (117, 115), (117, 23)]
+Ground truth: [(35, 91), (35, 91), (35, 91), (35, 91)] || Model output: [(32, 31), (31, 95), (96, 112), (113, 114)]
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: [46, 40], [46, 100], [104, 100], [104, 40]
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: **Vertex-based Tumor Bounding Box:**
+
+[22, 64], [22, 105], [78, 105], [78, 64]

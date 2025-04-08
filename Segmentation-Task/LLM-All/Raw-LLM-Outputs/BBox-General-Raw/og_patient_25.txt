@@ -1,0 +1,66 @@
+Ground truth: [(0, 90), (0, 105), (22, 105), (22, 90)] || Model output: [60, 49], [60, 113], [110, 113], [110, 49]
+Ground truth: [(0, 91), (0, 105), (23, 105), (23, 91)] || Model output: **(row_min, col_min), (row_min, col_max), (row_max, col_max), (row_max, col_min)]**
+**(35, 23), (35, 92
+Ground truth: [(0, 92), (0, 104), (23, 104), (23, 92)] || Model output: [70, 50], [70, 120], [90, 120], [90, 50]
+Ground truth: [(0, 94), (0, 104), (23, 104), (23, 94)] || Model output: [(60, 42), (61, 110), (120, 114), (120, 40)]
+Ground truth: [(0, 95), (0, 104), (23, 104), (23, 95)] || Model output: To extract the bounding box around the tumor from the FLAIR-mode brain scan, the following steps are taken:
+
+* **Step 1: Convert the image to binary**
+	+ Set a threshold to
+Ground truth: [(2, 95), (2, 103), (23, 103), (23, 95)] || Model output: [(19, 42), (19, 107), (80, 107), (80, 42)]
+Ground truth: [(3, 89), (3, 103), (23, 103), (23, 89)] || Model output: [(43, 29), (44, 29), (44, 56), (43, 56)]
+Ground truth: [(6, 89), (6, 102), (22, 102), (22, 89)] || Model output: To solve this problem, we need to perform the following steps:
+
+1.  **Read and preprocess the image**: Load the given 128x128 grayscale brain scan and convert it to a numpy array
+Ground truth: [(7, 89), (7, 101), (22, 101), (22, 89)] || Model output: * The bounding box corners are as follows:
+* (25, 24)
+* (22, 75)
+* (76, 75)
+* (76, 29)
+* Answer:
+Ground truth: [(12, 91), (12, 99), (22, 99), (22, 91)] || Model output: To find the solution to this question, we need to perform the following steps:
+
+1. **Pre-processing**: The image provided is a grayscale FLAIR-mode brain scan. We will first convert the image
+Ground truth: [(13, 91), (13, 98), (22, 98), (22, 91)] || Model output: To find the bounding box around the tumor in the FLAIR-mode brain scan, the following steps are taken:
+
+*   **Step 1: Preprocessing and Tumor Segmentation**
+    *
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: To solve this question, we will follow these steps:
+
+1. **Data Input and Preparation**: We are given a 128x128 grayscale brain scan representing the tumor region as the brightest, high-int
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: [(0, 23), (0, 127), (123, 127), (127, 22)]
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: [(29, 46), (29, 113), (89, 113), (89, 46)]
+Ground truth: [(22, 95), (22, 95), (22, 95), (22, 95)] || Model output: The provided image appears to be an MRI scan with a gray scale, as described in the prompt. However, it lacks any details that would enable the exact identification of a tumor, a normal feature for
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: To identify the bounding box around the tumor in a FLAIR-mode brain scan, we first need to understand the characteristics of glioma on FLAIR images. FLAIR (Fluid-Attenuated In
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: [(29, 61), (29, 99), (75, 99), (75, 61)]
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: **Bounding Box Extraction Solution**
+
+**Step 1: Tumor Detection using Local Maxima Analysis**
+
+*   The tumor region appears as a high-intensity abnormality within the brain scan. 
+*
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: [22, 19], [22, 89], [93, 89], [93, 19]
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: [(41, 35), (41, 96), (87, 95), (87, 35)]
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: To solve this problem, we will follow these steps:
+
+1. **Pre-processing**: Read the 128x128 grayscale brain scan.
+2. **Filtering**: Apply a filter to emphasize the bright
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: To segment the glioma region in the FLAIR-mode brain scan, we can utilize an algorithm tailored for glioma detection, which includes preprocessing, region of interest (ROI) extraction, and post-processing
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: [10, 22, 43, 95]
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: To generate the bounding box around the tumor region, the following steps are required:
+
+* **Step 1: Load the Brain Scan**
+  The grayscale brain scan is loaded into a digital imaging processing system
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: **Solution Approach:** Identify Bright Region
+
+**Step 1: Image Loading and Preprocessing**
+The grayscale brain scan image will be analyzed to determine the region representing the glioma.
+
+**Step 2
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: [(42, 51), (51, 68), (71, 100), (81, 104)]
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: To obtain the bounding box around the tumor in the given FLAIR-mode brain scan, we can follow these steps:
+
+**Step 1: Load and Process the Image**
+
+* Load the 128x
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: [16, 16, 100, 100]

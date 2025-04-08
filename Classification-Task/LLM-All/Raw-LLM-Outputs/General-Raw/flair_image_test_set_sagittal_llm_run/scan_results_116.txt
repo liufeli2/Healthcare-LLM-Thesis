@@ -1,0 +1,57 @@
+Scan #: 116/220
+Slice #0 => Choice: 2 Reasoning: No tumor visible, no contrast enhancement, normal brain structure.
+Slice #1 => Choice: 0 Reasoning: Focal lesion, minimal edema, no mass effect, no
+Slice #2 => Choice: 2 Reasoning: No mass, normal brain structure, no significant abnormality, no
+Slice #3 => Choice: 0 Reasoning: Heterogeneous mass, cystic and solid components, non-enh
+Slice #4 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis
+Slice #5 => Choice: 2 Reasoning: No visible tumor, normal brain structure, no abnormality detected.
+Slice #6 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, increased contrast enhancement, non
+Slice #7 => Choice: 2 Reasoning: No glioma features, no contrast enhancement, no mass effect,
+Slice #8 => Choice: 0 Reasoning: Heterogeneous mass, cystic and necrotic areas,
+Slice #9 => Choice: 1 Reasoning: High-grade glioma, irregular shape, heterogeneous signal, mass effect
+Slice #10 => Choice: 0 Reasoning: Heterogeneous mass, irregular borders, non-uniform signal intensity
+Slice #11 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis, edema
+Slice #12 => Choice: 0 Reasoning: Inhomogeneous mass, non-enhancing, infiltrative borders,
+Slice #13 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis, cysts
+Slice #14 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, and necrosis.
+Slice #15 => Choice: 0 Reasoning: Non-enhancing, heterogeneous mass, irregular borders, mild edema
+Slice #16 => Choice: 1 Reasoning: Tumor-like mass, irregular shape, heterogeneous density, moderate enhancement
+Slice #17 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, mixed signal
+Slice #18 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis, cystic
+Slice #19 => Choice: 0 Reasoning: Non-homogeneous mass, ill-defined margins, heterogeneous appearance,
+Slice #20 => Choice: 0 Reasoning: irregular shape, heterogeneous contrast enhancement, non-uniform margins, ill
+Slice #21 => Choice: 0 Reasoning: Non-uniform mass, irregular borders, heterogeneous density, no clear
+Slice #22 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis, contrast enhancement
+Slice #23 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis, edema
+Slice #24 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis, cysts
+Slice #25 => Choice: 1 Reasoning: High-grade glioma, irregular shape, heterogeneous contrast enhancement, nec
+Slice #26 => Choice: 1 Reasoning: Tumor heterogeneity, irregular margins, cystic components, solid
+Slice #27 => Choice: 1 Reasoning: Heterogeneous mass, irregular margins, necrosis, solid and
+Slice #28 => Choice: 1 Reasoning: High-grade glioma, irregular border, heterogeneous appearance, necrosis
+Slice #29 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis, contrast enhancement
+Slice #30 => Choice: 1 Reasoning: Tumor heterogeneity, irregular margins, necrosis, and contrast
+Slice #31 => Choice: 0 Reasoning: Inhomogeneous mass, irregular margins, solid appearance, heterogeneous enhancement
+Slice #32 => ERROR: Unknown >>||  || Step 1: Observe the brain scan ||  || The brain scan shows a large, irregularly
+Slice #33 => ERROR: Unknown >>||  || Step 1: Analyze the Brain Scan ||  ||    The brain scan shows a mass with
+Slice #34 => Choice: 0 Reasoning: Heterogeneous mass, irregular borders, necrosis, cystic
+Slice #35 => Choice: 0 Reasoning: Heterogeneous mass, ill-defined borders, non-enhancing,
+Slice #36 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis
+Slice #37 => Choice: 1 Reasoning: Heterogeneous, irregular, hyperintense, necrosis,
+Slice #38 => Choice: 2 Reasoning: No visible tumor, normal brain tissue, no mass effect, no
+Slice #39 => Choice: 0 Reasoning: Heterogeneous mass, non-uniform enhancement, irregular borders,
+Slice #40 => Choice: 0 Reasoning: Heterogeneous mass, irregular borders, non-enhancing, cyst
+Slice #41 => Choice: 0 Reasoning: Heterogeneous mass, irregular margins, low contrast,
+Slice #42 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis, edema
+Slice #43 => Choice: 1 Reasoning: Heterogeneous, irregular, infiltrative, necrosis, contrast
+Slice #44 => Choice: 1 Reasoning: High-grade glioma, irregular shape, heterogeneous texture, necrosis
+Slice #45 => Choice: 0 Reasoning: Heterogeneous mass, irregular borders, patchy enhancement, mid
+Slice #46 => Choice: 1 Reasoning: Heterogeneous appearance, irregular borders, necrosis, non-enh
+Slice #47 => Choice: 0 Reasoning: Non-uniform mass, irregular borders, heterogeneous texture, necrosis
+Slice #48 => Choice: 0 Reasoning: Inhomogeneous mass, necrosis, cysts, irregular margins
+Slice #49 => Choice: 1 Reasoning: Heterogeneous, necrotic, irregular, solid, irregular
+Slice #50 => Choice: 0 Reasoning: Heterogeneous mass, cystic necrosis, irregular margins,
+Slice #51 => Choice: 2 Reasoning: No distinct mass, no enhancement, no edema, no nec
+Guesses: [2, 0, 2, 0, 1, 2, 1, 2, 0, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 3, 3, 0, 0, 1, 1, 2, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 1, 0, 2]
+Tally: [19, 25, 6, 2]
+True Label: LGG || Prediction Label: HGG
+

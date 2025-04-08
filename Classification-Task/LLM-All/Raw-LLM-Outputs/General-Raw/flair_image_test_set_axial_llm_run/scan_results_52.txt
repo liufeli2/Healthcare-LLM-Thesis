@@ -1,0 +1,57 @@
+Scan #: 52/220
+Slice #0 => Choice: 1 Reasoning: Hyperintense mass, irregular border, heterogeneous signal, mass effect
+Slice #1 => Choice: 1 Reasoning: Mass effect, edema, irregular margins, heterogeneous signal, T
+Slice #2 => Choice: 1 Reasoning: Mass effect, irregular border, heterogeneous signal intensity, necrosis,
+Slice #3 => Choice: 2 Reasoning: No tumor, normal brain tissue, no contrast enhancement, no ed
+Slice #4 => Choice: 0 Reasoning: Mass-like lesion, heterogeneous appearance, partial enhancement, irregular borders,
+Slice #5 => Choice: 2 Reasoning: No mass effect, homogeneous signal, no contrast enhancement, no ed
+Slice #6 => Choice: 2 Reasoning: No mass effect, no edema, no enhancement, no calc
+Slice #7 => Choice: 1 Reasoning: Hyperintense mass, irregular margins, heterogeneous signal intensity, nec
+Slice #8 => Choice: 0 Reasoning: Non-specific mass, ill-defined borders, heterogeneous signal intensity, no
+Slice #9 => Choice: 0 Reasoning: Non-specific hyperintensity, mild mass effect, heterogeneous signal intensity
+Slice #10 => Choice: 1 Reasoning: Heterogeneous mass, necrosis, irregular borders, and enhancement
+Slice #11 => Choice: 1 Reasoning: Inhomogeneous mass, irregular borders, necrosis, and ed
+Slice #12 => Choice: 1 Reasoning: mass effect, irregular margins, heterogeneous signal intensity, edema,
+Slice #13 => Choice: 1 Reasoning: mass effect, irregular shape, heterogeneous signal intensity, edema,
+Slice #14 => Choice: 1 Reasoning: Mass effect, heterogeneous contrast enhancement, irregular margins, ill-defined borders
+Slice #15 => Choice: 1 Reasoning: Inhomogeneous mass, irregular borders, surrounding edema, heterogeneous
+Slice #16 => Choice: 0 Reasoning: Heterogeneous mass with irregular borders, mild contrast enhancement, and
+Slice #17 => Choice: 0 Reasoning: Heterogeneous mass, mixed signal intensity, irregular margins, nec
+Slice #18 => Choice: 0 Reasoning: Heterogeneous mass, non-enhancing, cortical involvement, minimal
+Slice #19 => Choice: 0 Reasoning: Mass effect, heterogeneous enhancement, cortical involvement, irregular margins, nec
+Slice #20 => Choice: 1 Reasoning: Heterogeneous mass, necrosis, irregular margins, enhancement.
+Slice #21 => Choice: 0 Reasoning: Non-homogeneous mass, irregular borders, heterogeneous signal intensity,
+Slice #22 => Choice: 1 Reasoning: Mass, heterogeneity, necrosis, contrast enhancement, irregular margins
+Slice #23 => Choice: 1 Reasoning: Inhomogeneous mass, irregular borders, necrosis, periles
+Slice #24 => Choice: 1 Reasoning: irregular mass, necrosis, peritumoral edema,
+Slice #25 => Choice: 1 Reasoning: Heterogeneous mass, irregular margins, necrosis, surrounding ed
+Slice #26 => Choice: 0 Reasoning: Presence of irregular mass with heterogeneous signal intensity, suggesting potential for malign
+Slice #27 => Choice: 1 Reasoning: Hyperintense mass lesion, irregular borders, heterogeneity, nec
+Slice #28 => Choice: 1 Reasoning: Heterogeneous mass, irregular margins, necrosis, edema
+Slice #29 => Choice: 1 Reasoning: Mass-like lesion, irregular borders, heterogeneous appearance, surrounding edema
+Slice #30 => Choice: 0 Reasoning: Circumscribed mass, heterogeneous appearance, calcifications, cortical involvement
+Slice #31 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, peritumoral ed
+Slice #32 => Choice: 1 Reasoning: Heterogeneous mass, irregular border, necrosis, edema
+Slice #33 => Choice: 1 Reasoning: Mass lesion, heterogeneous appearance, contrast enhancement, edema, mid
+Slice #34 => Choice: 1 Reasoning: heterogeneous mass, irregular border, cystic component, mild edema
+Slice #35 => Choice: 1 Reasoning: Heterogeneous mass, irregular border, perifocal edema
+Slice #36 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, surrounding edema, non
+Slice #37 => Choice: 1 Reasoning: Hyperintense lesions, mass effect, edema, irregular border
+Slice #38 => Choice: 1 Reasoning: Presence of irregularly shaped, hyperintense lesions with surrounding ed
+Slice #39 => Choice: 0 Reasoning: Inhomogeneous mass, irregular borders, no calcifications, minimal
+Slice #40 => Choice: 1 Reasoning: irregularly shaped mass, heterogeneous signal intensity, mild edema,
+Slice #41 => Choice: 1 Reasoning: Inhomogeneous mass with irregular borders, perilesional edema
+Slice #42 => Choice: 1 Reasoning: Heterogeneous mass with irregular margins, T2-hyperint
+Slice #43 => Choice: 0 Reasoning: Mass effect, cortical involvement, irregular borders, heterogeneous signal, no
+Slice #44 => Choice: 0 Reasoning: Heterogeneous mass, mild perilesional edema, non
+Slice #45 => Choice: 0 Reasoning: Tumor-like mass, irregular shape, heterogeneous signal, non-enh
+Slice #46 => Choice: 1 Reasoning: Enhancing mass, irregular margins, heterogeneous signal.
+Slice #47 => Choice: 1 Reasoning: Mass effect, edema, heterogeneity, irregular borders, contrast
+Slice #48 => Choice: 1 Reasoning: mass effect, irregular border, heterogeneous signal intensity, edema,
+Slice #49 => Choice: 2 Reasoning: No mass lesion, normal brain structure, no significant contrast enhancement,
+Slice #50 => Choice: 2 Reasoning: No abnormality, normal brain structure, no tumor visible, no
+Slice #51 => ERROR: Unknown >>||  || Answer: 2 ||  || Reasoning: ||  ||  No significant mass effect ||  No enhancement
+Guesses: [1, 1, 1, 2, 0, 2, 2, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 2, 2, 3]
+Tally: [14, 32, 5, 1]
+True Label: HGG || Prediction Label: HGG
+

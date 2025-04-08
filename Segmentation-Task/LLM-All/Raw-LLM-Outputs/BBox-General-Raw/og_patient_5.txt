@@ -1,0 +1,35 @@
+Ground truth: [(1, 18), (1, 51), (38, 51), (38, 18)] || Model output: The provided image depicts a glioblastoma multiforme tumor (GBM), as indicated by the presence of necrosis and edema, which is consistent with this diagnosis. Additionally, the irregular
+Ground truth: [(0, 17), (0, 51), (39, 51), (39, 17)] || Model output: [(64, 4), (64, 110), (92, 110), (92, 4)]
+Ground truth: [(0, 15), (0, 51), (40, 51), (40, 15)] || Model output: [(40, 60), (40, 117), (97, 117), (97, 60)]
+Ground truth: [(2, 14), (2, 52), (41, 52), (41, 14)] || Model output: [41, 70, 49, 94]
+Ground truth: [(2, 11), (2, 52), (42, 52), (42, 11)] || Model output: **Bounding Box around Tumor**
+
+To find the bounding box around the tumor, we need to locate the tumor region in the FLAIR-mode brain scan and define its coordinates. Since the tumor region is
+Ground truth: [(2, 12), (2, 52), (43, 52), (43, 12)] || Model output: [20, 93, 105, 102]
+Ground truth: [(1, 11), (1, 53), (39, 53), (39, 11)] || Model output: [(54, 57), (54, 128), (127, 128), (126, 57)]
+Ground truth: [(1, 11), (1, 53), (43, 53), (43, 11)] || Model output: To accurately segment and annotate the glioma on the FLAIR-mode brain scan, the following steps are required:
+
+### Step 1: Data Input and Preprocessing
+
+* Input the 128x128
+Ground truth: [(0, 11), (0, 53), (42, 53), (42, 11)] || Model output: I can provide a general understanding of the process involved in segmenting a glioma tumor in an MRI scan, but I'm unable to directly provide the bounding box coordinates as it would require real-time access
+Ground truth: [(0, 11), (0, 53), (40, 53), (40, 11)] || Model output: To create the bounding box around the tumor in the FLAIR-mode brain scan, follow these steps:
+
+1. **Load and preprocess the image**: Load the 128x128 grayscale brain scan image using
+Ground truth: [(0, 11), (0, 54), (43, 54), (43, 11)] || Model output: [53, 50, 84, 90]
+Ground truth: [(0, 12), (0, 54), (43, 54), (43, 12)] || Model output: **[Answer]** ((40,45),(40,100),(85,100),(85,45))
+Ground truth: [(0, 12), (0, 55), (43, 55), (43, 12)] || Model output: To provide accurate answers, I must rely on your detailed specifications. 
+
+Here is my understanding based on the description provided:
+
+*Answer*: [(23, 59), (23, 102), (
+Ground truth: [(0, 12), (0, 55), (42, 55), (42, 12)] || Model output: The provided MRI brain scan displays the patient's head from a superior view with their nose pointed toward the left and the back of the skull on the right side. To create a bounding box around the tumor
+Ground truth: [(0, 12), (0, 54), (43, 54), (43, 12)] || Model output: From the image, we can determine the row and column dimensions of the brain scan, which are 128 pixels in the y-axis and 128 pixels in the x-axis, respectively. Since the provided
+Ground truth: [(0, 12), (0, 52), (43, 52), (43, 12)] || Model output: [(22, 64), (22, 103), (103, 103), (102, 63)]
+Ground truth: [(0, 12), (0, 53), (44, 53), (44, 12)] || Model output: To develop an expert system for glioma segmentation on FLAIR-mode brain scans, you will need to apply deep learning techniques such as convolutional neural networks (CNNs). CNNs are particularly effective in
+Ground truth: [(0, 12), (0, 52), (44, 52), (44, 12)] || Model output: [14, 11), (14, 69), (82, 69), (82, 11)]
+Ground truth: [(0, 11), (0, 52), (43, 52), (43, 11)] || Model output: To extract the bounding box around the tumor in the FLAIR-mode brain scan, we will use the following steps:
+
+1. **Thresholding**: We will apply a threshold to the image to isolate the
+Ground truth: [(1, 12), (1, 52), (43, 52), (43, 12)] || Model output: The coordinates of the bounding box surrounding the tumor on the brain scan, as specified, are [(11, 41), (11, 74), (89, 74), (89,
+Ground truth: [(1, 13), (1, 51), (45, 51), (45, 13)] || Model output: [(19, 17), (19, 103), (95, 103), (95, 17)]

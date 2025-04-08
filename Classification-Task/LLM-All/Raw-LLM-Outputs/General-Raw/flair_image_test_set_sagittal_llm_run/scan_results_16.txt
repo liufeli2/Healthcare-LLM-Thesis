@@ -1,0 +1,49 @@
+Scan #: 16/220
+Slice #84 => Choice: 0 Reasoning: Non-specific mass, homogeneous contrast enhancement, irregular margins, no nec
+Slice #85 => Choice: 2 Reasoning: No significant mass or abnormality observed, no characteristic features of gli
+Slice #86 => Choice: 0 Reasoning: Heterogeneous mass, irregular borders, low contrast, no nec
+Slice #87 => Choice: 1 Reasoning: Heterogeneous mass, necrosis, contrast enhancement, irregular borders
+Slice #88 => Choice: 0 Reasoning: Well-defined borders, homogeneous appearance, minimal edema, no nec
+Slice #89 => Choice: 2 Reasoning: No mass, normal gray-white matter differentiation, no contrast enhancement,
+Slice #90 => Choice: 0 Reasoning: Low, diffuse, signal, enhancement, heterogeneous, contrast, irregular
+Slice #91 => Choice: 0 Reasoning: Heterogeneous mass, irregular borders, non-enhancing, low
+Slice #92 => Choice: 0 Reasoning: Heterogeneous mass, irregular borders, solid and cystic components
+Slice #93 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis, calcifications
+Slice #94 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, significant edema, nec
+Slice #95 => Choice: 0 Reasoning: Heterogeneous mass, irregular margins, mild edema, moderate
+Slice #96 => Choice: 0 Reasoning: Non-specific, subtle mass, irregular border, minimal contrast enhancement,
+Slice #97 => Choice: 1 Reasoning: Heterogeneous mass, irregular margins, necrosis, cystic
+Slice #98 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis
+Slice #99 => Choice: 0 Reasoning: Non-specific white matter signal abnormality, no mass effect, no
+Slice #100 => Choice: 2 Reasoning: No abnormality, uniform gray matter, no mass effect, normal
+Slice #101 => Choice: 2 Reasoning: No abnormality, normal brain tissue, no contrast enhancement, no
+Slice #102 => Choice: 2 Reasoning: No significant mass or abnormality, normal brain structure, no signs
+Slice #103 => Choice: 1 Reasoning: irregular mass, heterogeneity, contrast enhancement, peritumoral
+Slice #104 => Choice: 2 Reasoning: No mass, no enhancement, no edema, no contrast,
+Slice #105 => Choice: 2 Reasoning: No distinct tumor, no contrast enhancement, uniform signal intensity, no
+Slice #106 => Choice: 2 Reasoning: No mass lesion, no contrast enhancement, no edema, no
+Slice #107 => Choice: 1 Reasoning: Heterogeneous, irregular mass, necrosis, enhancement, ill
+Slice #108 => Choice: 0 Reasoning: Heterogeneous mass, ill-defined borders, irregular shape, non
+Slice #109 => Choice: 1 Reasoning: irregular border, heterogeneous appearance, increased signal intensity.
+Slice #110 => ERROR: Unknown >>||  || Step 1: Describe the scan's visual features ||  ||    The scan shows a mass in
+Slice #111 => Choice: 0 Reasoning: Non-homogeneous mass, irregular borders, mild contrast enhancement,
+Slice #112 => Choice: 0 Reasoning: Heterogeneous mass, non-enhancing, ill-defined margins,
+Slice #113 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis, edema
+Slice #114 => Choice: 0 Reasoning: Heterogeneous mass, irregular shape, non-uniform enhancement,
+Slice #115 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, perifocal edema
+Slice #116 => Choice: 0 Reasoning: Non-uniform signal intensity, heterogeneous mass, ill-defined borders,
+Slice #117 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis, cystic
+Slice #118 => Choice: 2 Reasoning: No mass effect, normal sulci, no edema, homogeneous
+Slice #119 => Choice: 0 Reasoning: Inhomogeneous mass, irregular margins, heterogeneous enhancement, cystic
+Slice #120 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis, contrast enhancement
+Slice #121 => Choice: 1 Reasoning: irregularly shaped mass, heterogeneous signal intensity, perilesional ed
+Slice #122 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis, cystic
+Slice #123 => Choice: 2 Reasoning: No mass lesion, normal sulci, no calcification, no
+Slice #124 => Choice: 2 Reasoning: No tumor, no contrast enhancement, normal brain structure
+Slice #125 => Choice: 0 Reasoning: Heterogeneous mass, mild hyperintensity, well-defined borders
+Slice #126 => Choice: 2 Reasoning: No mass, no enhancement, normal anatomy, no abnormal signal intensity
+Slice #127 => Choice: 2 Reasoning: No mass, no enhancement, uniform signal, no edema,
+Guesses: [0, 2, 0, 1, 0, 2, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 2, 2, 2, 1, 2, 2, 2, 1, 0, 1, 3, 0, 0, 1, 0, 1, 0, 1, 2, 0, 1, 1, 1, 2, 2, 0, 2, 2]
+Tally: [16, 14, 13, 1]
+True Label: HGG || Prediction Label: LGG
+

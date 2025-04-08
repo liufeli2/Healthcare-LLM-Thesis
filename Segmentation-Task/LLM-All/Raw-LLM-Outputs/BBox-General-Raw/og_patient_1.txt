@@ -1,0 +1,32 @@
+Ground truth: [(125, 69), (125, 70), (127, 70), (127, 69)] || Model output: The provided FLAIR-mode brain scan appears to contain a single tumor, located at the base of the brain in the left hemisphere. Upon reviewing the image, a bounding box can be defined to encompass the
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: [(54, 18), (54, 93), (113, 93), (113, 18)]
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: [(22, 35), (23, 96), (79, 96), (79, 36)]
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: **Step 1: Identify the Tumor Region**
+
+To identify the tumor region, we will analyze the FLAIR-mode brain scan for the highest intensity values. This method involves finding the most brightly lit
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: To determine the bounding box around the tumor region, we will perform the following steps:
+
+1. **Pre-processing**:
+	* Load the 128x128 grayscale brain scan and normalize the pixel values
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: [(24, 50), (24, 94), (82, 94), (82, 50)]
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: [(15, 55), (15, 113), (73, 113), (73, 55)]
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: To determine the bounding box around the tumor region in the FLAIR-mode brain scan, we need to identify the top-left and bottom-right corner coordinates of the tumor.
+
+**Step 1: Identify T
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: [53, 63, 85, 94]
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: **Solution Approach:**
+To segment the glioma region from the FLAIR-mode brain scan and extract the bounding box coordinates, we will use a combination of image processing and computer vision techniques tailored for gli
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: **Step 1: Identify Tumor Region**
+
+The brightest, high-intensity abnormality distinct from normal brain structures indicates the presence of a tumor.
+
+**Step 2: Calculate Bounding Box**
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: To determine the bounding box around the tumor in the FLAIR-mode brain scan, we need to perform the following steps:
+
+1. **Pre-processing**: Load the 128x128 grayscale brain scan into
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: **Tumor Segmentation and Bounding Box**
+
+To perform the required task, we will utilize a thresholding approach to separate the tumor region from the rest of the image.
+
+**Step 1:
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: The provided image appears to be a grayscale brain scan of a patient with a glioma, a type of brain tumor. Gliomas are characterized by high contrast compared to normal brain tissue and are typically

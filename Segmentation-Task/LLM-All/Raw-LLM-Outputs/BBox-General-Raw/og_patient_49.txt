@@ -1,0 +1,32 @@
+Ground truth: [(64, 36), (64, 72), (119, 72), (119, 36)] || Model output: [(18, 39), (18, 112), (89, 112), (89, 39)]
+Ground truth: [(64, 36), (64, 72), (122, 72), (122, 36)] || Model output: To accomplish the task, we must follow a detailed approach that includes:
+
+**Step 1: Understanding FLAIR-Mode Brain Scans**
+• FLAIR-mode brain scans are a type of MRI that
+Ground truth: [(64, 35), (64, 72), (124, 72), (124, 35)] || Model output: To extract the bounding box around the tumor region, we first need to locate and threshold the tumor based on its high intensity compared to the rest of the brain tissue. Assuming the provided FLAIR-mode brain
+Ground truth: [(64, 35), (64, 68), (125, 68), (125, 35)] || Model output: **Step 1: Load the Brain Scan Data**
+
+We can load the brain scan data into our analysis environment. Given the description, let's assume the provided 128x128 grayscale brain scan is
+Ground truth: [(65, 35), (65, 68), (126, 68), (126, 35)] || Model output: [(63, 26), (63, 114), (110, 114), (110, 26)]
+Ground truth: [(66, 35), (66, 68), (126, 68), (126, 35)] || Model output: [(14, 23), (15, 114), (110, 114), (111, 22)]
+Ground truth: [(68, 35), (68, 68), (126, 68), (126, 35)] || Model output: To extract the bounding box around the tumor on the given brain scan, we follow a step-by-step process that includes image processing, segmentation, and post-processing.
+
+**Step 1: Image Processing and
+Ground truth: [(69, 35), (69, 67), (126, 67), (126, 35)] || Model output: To solve this problem, we will utilize a combination of image processing techniques and machine learning. The steps involve pre-processing the image to enhance tumor visibility, followed by segmentation to isolate the tumor from the background
+Ground truth: [(69, 36), (69, 67), (126, 67), (126, 36)] || Model output: **Step 1: Identify the tumor region.**
+
+To segment the tumor region, we need to apply thresholding to the FLAIR-mode brain scan. Since the tumor is described as the brightest,
+Ground truth: [(70, 36), (70, 67), (126, 67), (126, 36)] || Model output: [23, 58, 98, 118]
+Ground truth: [(72, 36), (72, 67), (126, 67), (126, 36)] || Model output: Here is the bounding box around the tumor:
+
+(16, 32), (16, 63), (84, 63), (84, 32)
+Ground truth: [(73, 36), (73, 67), (126, 67), (126, 36)] || Model output: The following code utilizes the OpenCV library in Python to segment the glioma from the FLAIR-mode brain MRI scan.
+
+**Step 2: Preprocessing Steps**
+* Read the input grayscale brain scan
+Ground truth: [(74, 36), (74, 67), (126, 67), (126, 36)] || Model output: [23, 17, 82, 121]
+Ground truth: [(74, 37), (74, 66), (126, 66), (126, 37)] || Model output: [(5, 52), (5, 83), (63, 83), (63, 52)]
+Ground truth: [(75, 37), (75, 67), (126, 67), (126, 37)] || Model output: **Step 1: Identify the Brightest Region**
+
+To identify the region with the highest intensity (the brightest), we need to find the maximum pixel value within the given 128x128 brain scan
+Ground truth: [(76, 37), (76, 67), (126, 67), (126, 37)] || Model output: [0,0,0,0]

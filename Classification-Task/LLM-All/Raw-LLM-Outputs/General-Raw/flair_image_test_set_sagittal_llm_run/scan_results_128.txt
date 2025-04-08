@@ -1,0 +1,44 @@
+Scan #: 128/220
+Slice #41 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis, and ed
+Slice #42 => ERROR: Unknown >>||  || Step 1: Analyze the Brain Scan ||  ||    The brain scan appears to show a
+Slice #43 => Choice: 1 Reasoning: Mass effect, heterogeneous signal, necrosis, irregular
+Slice #44 => Choice: 1 Reasoning: Heterogeneous mass, necrosis, irregular margins, perit
+Slice #45 => Choice: 1 Reasoning: Non-homogeneous mass with necrosis, irregular borders, and
+Slice #46 => Choice: 1 Reasoning: Heterogeneous mass, necrosis, irregular borders, contrast enhancement
+Slice #47 => Choice: 1 Reasoning: irregular mass, heterogeneity, necrosis, enhancement, periles
+Slice #48 => Choice: 0 Reasoning: Heterogeneous mass, irregular border, and minimal edema.
+Slice #49 => ERROR: Unknown >>||  || Step 1: Analyze the image ||  || The image shows a brain scan with a large,
+Slice #50 => Choice: 1 Reasoning: High-grade glioma, necrosis, heterogeneous enhancement, mass effect
+Slice #51 => Choice: 0 Reasoning: Low signal intensity, heterogeneous appearance, minimal mass effect, no significant
+Slice #52 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis, contrast enhancement
+Slice #53 => Choice: 0 Reasoning: Heterogeneous mass, cystic areas, necrosis, contrast
+Slice #54 => Choice: 0 Reasoning: Heterogeneous mass, cystic necrosis, irregular borders,
+Slice #55 => ERROR: Unknown >>||  || Step 1: Analyze the image ||  ||    The image appears to be a brain scan
+Slice #56 => ERROR: Unknown >>||  || Choice: 1 ||  || Reasoning: The brain scan exhibits irregularly shaped masses with heterogeneous
+Slice #57 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis, contrast enhancement
+Slice #58 => Choice: 0 Reasoning: Heterogeneous mass, necrosis, irregular borders, solid/c
+Slice #59 => Choice: 1 Reasoning: Heterogeneous mass, necrosis, irregular borders, solid and
+Slice #60 => Choice: 1 Reasoning: Heterogeneous mass, necrosis, irregular borders, perit
+Slice #61 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis, and contrast
+Slice #62 => Choice: 1 Reasoning: Heterogeneous mass, irregular margins, necrosis, cysts
+Slice #63 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis, edema
+Slice #64 => Choice: 1 Reasoning: High contrast, irregular margins, heterogeneous texture.
+Slice #65 => Choice: 1 Reasoning: Heterogeneous mass, irregular border, necrosis, edema
+Slice #66 => Choice: 1 Reasoning: Inhomogeneous mass, irregular borders, moderate enhancement, and nec
+Slice #67 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis
+Slice #68 => Choice: 0 Reasoning: Heterogeneous mass with irregular borders, non-enhancing areas,
+Slice #69 => Choice: 1 Reasoning: Heterogeneous mass, necrosis, irregular borders, solid components
+Slice #70 => Choice: 0 Reasoning: Tumor with heterogeneous contrast enhancement, solid and cystic components,
+Slice #71 => Choice: 0 Reasoning: Mass effect, heterogeneous, irregular margins, minimal edema, no
+Slice #72 => Choice: 1 Reasoning: Mass with irregular borders, heterogeneous signal intensity, and necrosis.
+Slice #73 => Choice: 0 Reasoning: Heterogeneous mass, irregular borders, necrosis, solid and
+Slice #74 => ERROR: Unknown >>||  || Step 1: Analyze the brain scan ||  || The brain scan shows a large mass in the
+Slice #75 => Choice: 0 Reasoning: Heterogeneous mass, irregular margins, necrosis, cystic
+Slice #76 => Choice: 0 Reasoning: Non-enhancing, heterogeneous mass, ill-defined borders, cystic
+Slice #77 => Choice: 1 Reasoning: Mass effect, irregular border, necrosis, contrast enhancement, heterogeneous
+Slice #78 => Choice: 1 Reasoning: Heterogeneous mass, irregular margins, necrosis, cystic
+Slice #79 => Choice: 0 Reasoning: Heterogeneous mass with irregular borders, necrosis, and contrast
+Guesses: [1, 3, 1, 1, 1, 1, 1, 0, 3, 1, 0, 1, 0, 0, 3, 3, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 0, 3, 0, 0, 1, 1, 0]
+Tally: [12, 22, 0, 5]
+True Label: HGG || Prediction Label: HGG
+

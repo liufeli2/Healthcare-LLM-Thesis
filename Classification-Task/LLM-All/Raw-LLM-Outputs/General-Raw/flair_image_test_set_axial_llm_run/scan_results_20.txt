@@ -1,0 +1,66 @@
+Scan #: 20/220
+Slice #34 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis, contrast enhancement
+Slice #35 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, surrounding edema, per
+Slice #36 => Choice: 1 Reasoning: Tumor mass, irregular borders, heterogeneous signal intensity.
+Slice #37 => Choice: 1 Reasoning: heterogeneous mass, irregular borders, enhancement, necrosis, edema
+Slice #38 => Choice: 1 Reasoning: Hyperintense mass lesion, irregular margins, heterogeneous signal, surrounding
+Slice #39 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, increased contrast enhancement.
+Slice #40 => Choice: 0 Reasoning: Mass effect, irregular border, heterogeneous enhancement, and necrosis are
+Slice #41 => Choice: 1 Reasoning: mass effect, heterogenous enhancement, necrosis, peritum
+Slice #42 => Choice: 1 Reasoning: Large mass, irregular margins, heterogeneous enhancement, peritumoral
+Slice #43 => Choice: 1 Reasoning: Hyperintense mass lesion, irregular border, perilesional ed
+Slice #44 => Choice: 0 Reasoning: Tumor with irregular margins, heterogeneous signal intensity, and edema
+Slice #45 => Choice: 0 Reasoning: Mass lesion, non-enhancing, non-calcified, homogeneous
+Slice #46 => Choice: 1 Reasoning: large mass, irregular shape, heterogeneous appearance, contrast enhancement, surrounding
+Slice #47 => Choice: 1 Reasoning: High-grade glioma, irregular mass, heterogeneous enhancement, necrosis
+Slice #48 => Choice: 1 Reasoning: irregular mass, heterogeneous enhancement, perilesional edema, solid
+Slice #49 => Choice: 0 Reasoning: Large, irregular mass with heterogeneous enhancement, no clear borders, and
+Slice #50 => Choice: 1 Reasoning: High-grade glioma, irregular mass, necrosis, contrast enhancement
+Slice #51 => Choice: 1 Reasoning: Hyperintense mass, heterogeneous, irregular borders, edema,
+Slice #52 => Choice: 1 Reasoning: Heterogeneous mass, necrosis, contrast enhancement, periles
+Slice #53 => Choice: 1 Reasoning: Tumor mass, irregular borders, necrosis, heterogeneity,
+Slice #54 => Choice: 1 Reasoning: Necrosis, heterogeneity, irregular borders, edema, mass
+Slice #55 => Choice: 1 Reasoning: Large, irregular mass, heterogeneous enhancement, peritumoral ed
+Slice #56 => Choice: 0 Reasoning: Mass effect, peritumoral edema, heterogeneous appearance,
+Slice #57 => Choice: 1 Reasoning: Tumor mass, heterogeneous enhancement, necrosis, irregular borders,
+Slice #58 => Choice: 1 Reasoning: Mass effect, heterogeneity, necrosis, edema, irregular
+Slice #59 => Choice: 1 Reasoning: Heterogeneous mass, necrosis, irregular margins, perit
+Slice #60 => Choice: 1 Reasoning: High-grade glioma, large mass, irregular border, necrosis
+Slice #61 => Choice: 1 Reasoning: irregular mass, heterogeneous enhancement, surrounding edema, necrosis,
+Slice #62 => Choice: 1 Reasoning: Mass effect, heterogeneity, irregular margins, necrosis, ed
+Slice #63 => Choice: 0 Reasoning: heterogeneous mass, irregular borders, edema, necrosis, non
+Slice #64 => Choice: 1 Reasoning: Large mass, irregular border, heterogeneous appearance, significant edema,
+Slice #65 => Choice: 1 Reasoning: large mass, heterogeneous appearance, irregular borders, edema, nec
+Slice #66 => Choice: 1 Reasoning: Large mass, irregular border, heterogeneous density, necrosis, contrast
+Slice #67 => Choice: 0 Reasoning: Heterogeneous mass, necrosis, irregular margins, enhancement,
+Slice #68 => Choice: 1 Reasoning: Mass effect, perilesional edema, heterogenous appearance,
+Slice #69 => Choice: 1 Reasoning: irregular mass, heterogenous enhancement, solid/cystic components,
+Slice #70 => Choice: 0 Reasoning: Mass with heterogeneous contrast enhancement, minimal edema, and smooth margins
+Slice #71 => Choice: 1 Reasoning: Hyperintense mass, irregular borders, heterogeneous signal, necrosis
+Slice #72 => Choice: 0 Reasoning: Heterogeneous mass, irregular margins, minimal edema, and
+Slice #73 => Choice: 0 Reasoning: irregular mass, heterogeneous enhancement, necrosis, peritumoral
+Slice #74 => Choice: 1 Reasoning: irregular border, heterogeneous appearance, mass effect, edema, nec
+Slice #75 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis, and ed
+Slice #76 => Choice: 1 Reasoning: Enhancing mass with surrounding edema, heterogeneous appearance, and nec
+Slice #77 => Choice: 0 Reasoning: mass effect, heterogeneous signal, irregular margins, edema, non
+Slice #78 => Choice: 1 Reasoning: Tumor mass, irregular border, necrosis, heterogeneous signal intensity
+Slice #79 => Choice: 1 Reasoning: Tumor mass, irregular margins, heterogeneous enhancement, necrosis,
+Slice #80 => Choice: 0 Reasoning: Heterogeneous mass, non-enhancing, ill-defined margins,
+Slice #81 => Choice: 1 Reasoning: High-grade glioma, necrosis, irregular border, heterogeneous mass
+Slice #82 => Choice: 1 Reasoning: High-grade glioma, irregular border, necrosis, contrast enhancement
+Slice #83 => Choice: 1 Reasoning: High-grade glioma, heterogeneous, irregular borders, necrosis,
+Slice #84 => Choice: 0 Reasoning: Heterogeneous mass, irregular borders, edema, necrosis
+Slice #85 => Choice: 1 Reasoning: Large, irregular, heterogeneous mass with necrosis and edema,
+Slice #86 => Choice: 1 Reasoning: Heterogeneous mass with irregular borders, peritumoral ed
+Slice #87 => Choice: 1 Reasoning: irregular mass with necrosis, heterogeneous enhancement, perilesional ed
+Slice #88 => Choice: 1 Reasoning: irregular border, heterogeneous signal, mass effect, necrosis, contrast
+Slice #89 => Choice: 0 Reasoning: irregular mass, heterogeneous signal, minimal edema, no enhancement,
+Slice #90 => Choice: 1 Reasoning: Large, irregularly shaped mass, heterogeneous signal intensity, significant ed
+Slice #91 => Choice: 1 Reasoning: irregular border, heterogeneous mass, solid component, necrosis, mid
+Slice #92 => Choice: 1 Reasoning: Heterogeneous mass, irregular margins, necrosis, contrast enhancement
+Slice #93 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, moderate enhancement, periles
+Slice #94 => Choice: 1 Reasoning: irregular border, heterogeneous enhancement, mass effect, necrosis, per
+Guesses: [1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 0, 1, 0, 0, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1]
+Tally: [14, 47, 0, 0]
+True Label: HGG || Prediction Label: HGG
+

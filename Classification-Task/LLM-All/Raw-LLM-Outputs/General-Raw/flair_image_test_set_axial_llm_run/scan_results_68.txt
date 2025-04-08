@@ -1,0 +1,31 @@
+Scan #: 68/220
+Slice #26 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis, contrast enhancement
+Slice #27 => Choice: 0 Reasoning: Non-homogeneous hypodensity, irregular borders, and mass
+Slice #28 => Choice: 1 Reasoning: Heterogeneous mass with irregular borders, significant edema, and
+Slice #29 => Choice: 1 Reasoning: Mass effect, heterogeneous enhancement, edema, irregular borders, nec
+Slice #30 => Choice: 1 Reasoning: Heterogeneous mass, irregular margins, edema, necrosis
+Slice #31 => Choice: 1 Reasoning: Hyperintense mass, irregular margins, heterogeneous signal, mass effect
+Slice #32 => Choice: 1 Reasoning: Heterogeneous mass, irregular margins, necrosis, enhancement,
+Slice #33 => Choice: 1 Reasoning: High-grade glioma, irregular shape, heterogeneous signal, mass effect
+Slice #34 => Choice: 1 Reasoning: Large mass, irregular border, heterogeneous signal, necrosis, contrast
+Slice #35 => Choice: 0 Reasoning: Hyperintense lesion, irregular borders, peritumoral ed
+Slice #36 => Choice: 0 Reasoning: Tumor-like lesion, cystic appearance, heterogeneous signal intensity,
+Slice #37 => Choice: 1 Reasoning: Large mass, heterogeneous enhancement, periventricular location, irregular
+Slice #38 => Choice: 0 Reasoning: mass effect, heterogeneous enhancement, periventricular location, ill
+Slice #39 => Choice: 0 Reasoning: Mass, irregular, heterogeneous, contrast enhancement, surrounding edema,
+Slice #40 => Choice: 1 Reasoning: mass effect, irregular border, heterogeneous signal, necrosis, contrast
+Slice #41 => Choice: 1 Reasoning: Solid mass, irregular borders, heterogeneous appearance, edema, nec
+Slice #42 => Choice: 1 Reasoning: Hyperintense mass, irregular borders, necrosis, heterogeneous enhancement
+Slice #43 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis, periles
+Slice #44 => Choice: 1 Reasoning: Mass effect, peritumoral edema, heterogeneous enhancement,
+Slice #45 => Choice: 1 Reasoning: High-grade glioma, heterogeneous mass, necrosis, edema
+Slice #46 => Choice: 1 Reasoning: High-grade glioma, necrosis, irregular margins, heterogeneous enhancement
+Slice #47 => Choice: 1 Reasoning: mass effect, edema, heterogeneity, necrosis, contrast
+Slice #48 => Choice: 1 Reasoning: High-grade glioma, extensive necrosis, irregular margins, heterogeneous
+Slice #49 => Choice: 1 Reasoning: Mass effect, heterogeneity, irregular margins, enhancement, edema
+Slice #50 => Choice: 2 Reasoning: No enhancement, normal brain structure, no mass effect, no contrast
+Slice #51 => Choice: 1 Reasoning: Mass effect, heterogeneous enhancement, irregular margins, perilesional ed
+Guesses: [1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1]
+Tally: [5, 20, 1, 0]
+True Label: HGG || Prediction Label: HGG
+

@@ -1,0 +1,10 @@
+Ground truth: 1 || Model output: Choice: 1
+Ground truth: 1 || Model output: Choice: 1
+Ground truth: 1 || Model output: Choice: 1
+Ground truth: 1 || Model output: Choice: 1
+Ground truth: 1 || Model output: Choice: 1
+Ground truth: 1 || Model output: Choice: 1
+Ground truth: 1 || Model output: Choice: 1
+Ground truth: 1 || Model output: Choice: 1
+Ground truth: 1 || Model output: Choice: 1
+Ground truth: 1 || Model output: Choice: 1

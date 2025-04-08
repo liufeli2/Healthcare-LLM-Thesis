@@ -1,0 +1,13 @@
+Ground truth: [(0, 68), (0, 84), (30, 84), (30, 68)] || Model output: [(95, 46), (95, 94), (121, 94), (121, 46)]
+Ground truth: [(0, 68), (0, 94), (33, 94), (33, 68)] || Model output: The provided MRI image illustrates a characteristic appearance of a glioblastoma multiforme (GBM) on a FLAIR mode brain scan, distinguished by a bright area with an irregular and somewhat elong
+Ground truth: [(0, 69), (0, 80), (37, 80), (37, 69)] || Model output: [(18, 14), (18, 114), (114, 114), (114, 18)]
+Ground truth: [(0, 69), (0, 81), (41, 81), (41, 69)] || Model output: Here is a succinct summary of the image description:
+
+* The image shows a brain scan in FLAIR mode.
+* The tumor is a bright, high-intensity abnormality that is distinct from the normal
+Ground truth: [(0, 68), (0, 92), (39, 92), (39, 68)] || Model output: To create the bounding box around the tumor, the following steps are necessary:
+
+* **Step 1: Tumor Identification**
+ Identify the tumor region in the brain scan by locating the highest intensity region.
+Ground truth: [(0, 67), (0, 91), (39, 91), (39, 67)] || Model output: [39, 34, 93, 88]
+Ground truth: [(0, 67), (0, 92), (44, 92), (44, 67)] || Model output: The provided FLAIR-mode brain scan shows a high-intensity abnormality distinct from normal brain structures, which is consistent with a tumor region. The tumor appears to be located in the cerebral hemisphere, extending

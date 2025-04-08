@@ -1,0 +1,3 @@
+Ground truth: [(99, 89), (99, 93), (106, 93), (106, 89)] || Model output: **Step 1: Load and Process the Image**
+
+Load the provided grayscale brain scan into your analysis environment. This image should be in a format that can be read by your environment for image processing.

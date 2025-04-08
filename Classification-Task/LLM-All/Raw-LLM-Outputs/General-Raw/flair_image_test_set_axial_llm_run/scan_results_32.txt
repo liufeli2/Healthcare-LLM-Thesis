@@ -1,0 +1,25 @@
+Scan #: 32/220
+Slice #0 => Choice: 1 Reasoning: Large, irregularly shaped mass, heterogeneous enhancement, surrounding edema
+Slice #1 => Choice: 1 Reasoning: Mass effect, irregular shape, heterogeneous appearance, contrast enhancement, per
+Slice #2 => Choice: 1 Reasoning: Large mass, irregular border, necrosis, edema, contrast
+Slice #3 => Choice: 1 Reasoning: Large cystic lesion, irregular borders, heterogeneous enhancement, mass effect
+Slice #4 => Choice: 0 Reasoning: Mass effect, midline shift, cystic component, necrosis
+Slice #5 => Choice: 0 Reasoning: Tumor-like mass, heterogeneous signal intensity, moderate edema,
+Slice #6 => Choice: 1 Reasoning: High contrast lesion, irregular border, heterogeneous signal intensity.
+Slice #7 => Choice: 1 Reasoning: Mass effect, peritumoral edema, heterogeneous appearance,
+Slice #8 => Choice: 1 Reasoning: Large mass, heterogeneous, irregular borders, necrosis, midline
+Slice #9 => Choice: 0 Reasoning: Heterogeneous mass, irregular borders, minimal enhancement, no significant
+Slice #10 => Choice: 1 Reasoning: Mass, irregular border, heterogenous signal intensity, edema,
+Slice #11 => Choice: 0 Reasoning: Non-homogeneous mass with irregular borders, moderate contrast enhancement,
+Slice #12 => Choice: 1 Reasoning: Mass effect, irregular border, heterogeneous signal, surrounding edema,
+Slice #13 => Choice: 0 Reasoning: Non-specific white matter changes, no clear mass effect, no significant
+Slice #14 => Choice: 1 Reasoning: Mass effect, heterogeneous signal, irregular border, necrosis
+Slice #15 => ERROR: Unknown >>||  || Step 1: Analyze the Brain Scan ||  ||    The brain scan shows a large mass
+Slice #16 => Choice: 1 Reasoning: Mass effect, heterogeneous contrast enhancement, necrosis,
+Slice #17 => Choice: 1 Reasoning: mass effect, irregular borders, heterogeneous signal, necrosis, contrast
+Slice #18 => Choice: 1 Reasoning: Large mass, irregular borders, mixed signal intensity, heterogenous enhancement
+Slice #19 => Choice: 0 Reasoning: Cortical involvement, irregular margins, heterogeneous signal intensity, mass effect
+Guesses: [1, 1, 1, 1, 0, 0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 3, 1, 1, 1, 0]
+Tally: [6, 13, 0, 1]
+True Label: LGG || Prediction Label: HGG
+

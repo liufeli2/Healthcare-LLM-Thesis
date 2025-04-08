@@ -1,0 +1,19 @@
+Ground truth: [(50, 23), (50, 72), (90, 72), (90, 23)] || Model output: To find the bounding box around the tumor, we need to follow these steps:
+
+1. **Image Enhancement**: Enhance the image to make the tumor region more prominent. This can be done using various
+Ground truth: [(48, 23), (48, 73), (90, 73), (90, 23)] || Model output: **Bounding Box Around Tumor**
+
+To derive the bounding box around the tumor on a brain FLAIR-mode scan, a step-by-step approach is required, utilizing image processing and thresholding techniques.
+
+**
+Ground truth: [(49, 23), (49, 73), (90, 73), (90, 23)] || Model output: * [*(59, 22), *(59, 106), *(98, 106), *(98, 22)*]
+Ground truth: [(49, 22), (49, 72), (91, 72), (91, 22)] || Model output: [(62, 39), (62, 102), (101, 102), (101, 39)]
+Ground truth: [(50, 23), (50, 72), (89, 72), (89, 23)] || Model output: From the grayscale FLAIR brain scan, we have to determine the bounding box coordinates that tightly enclose the tumor without extending into non-tumor regions. The tumor appears as the brightest, high-intensity
+Ground truth: [(49, 23), (49, 72), (90, 72), (90, 23)] || Model output: To solve this problem, we can follow these steps:
+
+1. **Load the Brain Scan Data:**
+   * Load the given 128x128 grayscale brain scan data into a suitable format for further
+Ground truth: [(49, 23), (49, 72), (90, 72), (90, 23)] || Model output: **Vertex Identification Output**
+
+* The bounding box corners, with top-left at (76, 72) and bottom-right at (95, 121), are: [(76, 72), (
+Ground truth: [(48, 25), (48, 72), (90, 72), (90, 25)] || Model output: From the grayscale FLAIR-mode brain scan provided, the brightest and most distinctive region from normal structures is segmented as the glioma tumor. By leveraging an Otsu thresholding technique to determine a segmentation

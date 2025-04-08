@@ -1,0 +1,61 @@
+Ground truth: [(70, 13), (70, 26), (80, 26), (80, 13)] || Model output: **[Required Output Format:** (row_min, col_min), (row_min, col_max), (row_max, col_max), (row_max, col_min)]
+Ground truth: [(69, 11), (69, 26), (80, 26), (80, 11)] || Model output: [45, 19], [45, 98], [123, 98], [123, 19]
+Ground truth: [(65, 11), (65, 27), (81, 27), (81, 11)] || Model output: [(10, 63), (11, 90), (91, 91), (91, 62)]
+Ground truth: [(65, 14), (65, 28), (81, 28), (81, 14)] || Model output: The provided brain scan image displays a large tumor situated in the left hemisphere, characterized by a significantly higher signal intensity compared to the surrounding normal brain tissue. The tumor exhibits a large necrotic core with
+Ground truth: [(65, 12), (65, 27), (81, 27), (81, 12)] || Model output: (16, 0), (16, 39), (59, 39), (59, 0)
+Ground truth: [(66, 10), (66, 29), (82, 29), (82, 10)] || Model output: To solve this question, we can use the following steps:
+
+1.  **Import Necessary Libraries**
+    ```python
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.model_selection import
+Ground truth: [(66, 8), (66, 29), (82, 29), (82, 8)] || Model output: [(49, 29), (49, 120), (110, 119), (109, 29)]
+Ground truth: [(66, 9), (66, 28), (81, 28), (81, 9)] || Model output: [0, 0, 10, 124]
+Ground truth: [(65, 9), (65, 28), (83, 28), (83, 9)] || Model output: Here is the bounding box around the tumor region in the FLAIR-mode brain scan:
+
+[(12, 48), (12, 82), (66, 82), (66, 48
+Ground truth: [(67, 9), (67, 28), (83, 28), (83, 9)] || Model output: **Step 1: Preprocessing of MRI FLAIR-mode image**
+
+*   Importing the MRI FLAIR-mode brain scan into Python as a grayscale array
+*   Apply an appropriate threshold to highlight
+Ground truth: [(68, 9), (68, 26), (83, 26), (83, 9)] || Model output: * [Hint: Find the brightest, high-intensity abnormality in the 128x128 grayscale image, and output its bounding box. The box must tightly enclose the tumor region without extending into
+Ground truth: [(65, 9), (65, 26), (84, 26), (84, 9)] || Model output: To determine the bounding box around the tumor region in the FLAIR-mode brain scan, we follow a structured approach:
+
+1. **Image Preprocessing:**
+   - Load the provided 128x128
+Ground truth: [(64, 9), (64, 24), (83, 24), (83, 9)] || Model output: [(35, 70), (35, 107), (88, 107), (88, 72)]
+Ground truth: [(73, 10), (73, 24), (82, 24), (82, 10)] || Model output: **Step 1: Identify Tumor Region**
+
+The tumor region is the brightest, high-intensity abnormality distinct from normal brain structures.
+
+**Step 2: Determine Bounding Box Coordinates**
+
+To
+Ground truth: [(68, 10), (68, 20), (82, 20), (82, 10)] || Model output: [(43, 46), (43, 112), (93, 112), (93, 46)]
+Ground truth: [(74, 11), (74, 19), (81, 19), (81, 11)] || Model output: The tumor area is represented by white pixels in the FLAIR brain scan. The region grows in brightness as it extends toward the top. Here's how we'll determine the bounding box:
+
+* **Step
+Ground truth: [(77, 11), (77, 18), (81, 18), (81, 11)] || Model output: To solve this problem, we can use a combination of image processing techniques, specifically thresholding and erosion.
+
+**Step 1: Thresholding**
+
+To identify the tumor region, we will apply a threshold
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: **Bounding Box for FLAIR-Mode Brain Scan with Tumor**
+
+To generate the bounding box, we will follow a step-by-step approach:
+
+### Step 1: Loading the Image
+
+*
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: [(3, 23), (3, 45), (29, 45), (29, 23)]
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: *Output:*
+
+(12, 35), (12, 99), (66, 99), (66, 35)
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: [(50, 70), (50, 103), (96, 103), (96, 70)]
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: To generate the bounding box around the tumor region in the given brain scan, the following steps are performed:
+
+*   The FLAIR-mode brain scan is analyzed to identify the tumor region as the brightest,
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: [47, 57, 87, 101]
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: [(44, 56), (44, 114), (104, 114), (104, 56)]
+Ground truth: [(-1, -1), (-1, -1), (-1, -1), (-1, -1)] || Model output: [25, 23, 69, 104]

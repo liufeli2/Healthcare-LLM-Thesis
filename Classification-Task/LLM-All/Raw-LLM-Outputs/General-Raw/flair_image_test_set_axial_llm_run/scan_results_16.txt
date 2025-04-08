@@ -1,0 +1,46 @@
+Scan #: 16/220
+Slice #40 => Choice: 0 Reasoning: Inhomogeneous mass, irregular borders, necrosis, and ed
+Slice #41 => Choice: 1 Reasoning: Mass effect, heterogenous enhancement, irregular margins, midline shift
+Slice #42 => Choice: 1 Reasoning: Mass effect, irregular border, heterogeneous enhancement.
+Slice #43 => Choice: 0 Reasoning: Heterogeneous mass, non-uniform enhancement, periventric
+Slice #44 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis, vasogenic
+Slice #45 => Choice: 1 Reasoning: Heterogeneous mass, irregular margins, necrosis, periles
+Slice #46 => Choice: 0 Reasoning: Heterogeneous mass, non-enhancing, solid/cystic
+Slice #47 => Choice: 1 Reasoning: Mass effect, heterogeneity, necrosis, peritumoral
+Slice #48 => Choice: 1 Reasoning: Large irregular mass, heterogeneous enhancement, edema, necrosis,
+Slice #49 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, contrast enhancement, necrosis
+Slice #50 => ERROR: Unknown >>||  || Step 1: Analyze the Brain Scan ||  || The brain scan shows a large, irregularly
+Slice #51 => Choice: 0 Reasoning: Mass effect, edema, heterogeneous enhancement, infiltrative margins,
+Slice #52 => Choice: 1 Reasoning: Mass effect, irregular border, heterogeneous signal, perilesional ed
+Slice #53 => ERROR: Unknown >>||  || Step 1: Analyze the scan for visual features ||  || The brain scan shows a large,
+Slice #54 => Choice: 1 Reasoning: irregular border, heterogeneous signal, mass effect, peritumoral
+Slice #55 => Choice: 1 Reasoning: Periventricular edema, mass effect, heterogeneous enhancement,
+Slice #56 => Choice: 1 Reasoning: Mass effect, heterogeneity, necrosis, ed
+Slice #57 => Choice: 2 Reasoning: No significant mass, no contrast enhancement, normal periventricular
+Slice #58 => Choice: 1 Reasoning: Mass effect, periventricular edema, irregular margins,
+Slice #59 => Choice: 0 Reasoning: Cortical heterogeneity, hyperintensity, irregular border, non
+Slice #60 => Choice: 1 Reasoning: Mass effect, periventricular location, irregular borders, heterogeneous
+Slice #61 => Choice: 1 Reasoning: Heterogeneous mass with irregular margins, surrounding edema, and
+Slice #62 => Choice: 1 Reasoning: Heterogeneous mass, irregular border, necrosis, periles
+Slice #63 => Choice: 1 Reasoning: Mass effect, heterogeneity, necrosis, edema, mid
+Slice #64 => Choice: 1 Reasoning: Mass effect, heterogeneity, edema, contrast enhancement, per
+Slice #65 => Choice: 1 Reasoning: High-grade glioma, irregular margins, heterogeneous enhancement, mass effect
+Slice #66 => Choice: 1 Reasoning: Mass effect, heterogeneous signal, irregular borders, periventricular
+Slice #67 => Choice: 1 Reasoning: Mass effect, heterogeneous signal, irregular borders, necrosis, ed
+Slice #68 => Choice: 1 Reasoning: irregular border, heterogeneous signal intensity, mass effect, edema,
+Slice #69 => ERROR: Unknown >>||  || Answer: 1 ||  || Reasoning: ||  ||  Heterogeneous appearance: Non-un
+Slice #70 => Choice: 1 Reasoning: Mass effect, heterogeneity, irregular margins, edema, nec
+Slice #71 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis, enhancement,
+Slice #72 => Choice: 0 Reasoning: Non-specific white matter changes, no clear mass effect, no enhancement
+Slice #73 => Choice: 0 Reasoning: Cortical involvement, non-enhancing, subtle mass effect, heterogeneous
+Slice #74 => Choice: 0 Reasoning: Heterogeneous mass with irregular margins, minimal edema, and
+Slice #75 => Choice: 1 Reasoning: Heterogeneous mass, necrosis, contrast enhancement, irregular margins
+Slice #76 => Choice: 0 Reasoning: non-enhancing mass, cortical location, T2-hyperint
+Slice #77 => Choice: 1 Reasoning: Heterogeneous mass, irregular borders, necrosis, contrast enhancement
+Slice #78 => Choice: 1 Reasoning: Heterogeneous mass, irregular margins, necrosis, and surrounding
+Slice #79 => Choice: 1 Reasoning: Mass effect, irregular margins, heterogeneity, contrast enhancement, ed
+Slice #80 => Choice: 0 Reasoning: Cortical involvement, non-enhancing, heterogenous, non-c
+Guesses: [0, 1, 1, 0, 1, 1, 0, 1, 1, 1, 3, 0, 1, 3, 1, 1, 1, 2, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 0]
+Tally: [10, 27, 1, 3]
+True Label: HGG || Prediction Label: HGG
+
